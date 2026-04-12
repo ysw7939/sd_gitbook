@@ -9,6 +9,10 @@
 * 매일 **오전 3시**에 일일 판매량이 초기화됩니다.
 * 빈 슬롯에 아이템을 등록하고, 가격을 조정하여 판매합니다.
 
+<figure><img src="../.gitbook/assets/image (15).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (16).png" alt=""><figcaption></figcaption></figure>
+
 ## 무역 등급
 
 무역에는 등급이 있으며, 등급이 높을수록 더 많은 슬롯과 판매량을 이용할 수 있습니다.

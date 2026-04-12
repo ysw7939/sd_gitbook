@@ -3,6 +3,10 @@
 광산은 메인 월드와 분리된 별도의 채굴 전용 월드입니다.\
 `/워프` 메뉴에서 광산으로 이동할 수 있습니다.
 
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/85106663-506D-4DE7-9327-28C013839ABD.gif" alt=""><figcaption></figcaption></figure>
+
 ## 특징
 
 * 바닐라 마인크래프트의 광물 분포를 유지합니다.

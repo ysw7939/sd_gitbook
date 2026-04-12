@@ -8,6 +8,8 @@
 2. **화분에 물 주기** — 물이 채워진 물뿌리개로 화분에 우클릭합니다.
 3. **씨앗 심기** — 씨앗을 들고 화분에 우클릭하여 심습니다.
 
+<figure><img src="../../.gitbook/assets/26DBF67C-3808-4C77-80CA-394C298AA8F2.gif" alt=""><figcaption></figcaption></figure>
+
 ## 성장 정보
 
 * 일반 작물: 3단계 성장, 약 **7분** 소요

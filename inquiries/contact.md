@@ -1,5 +1,7 @@
 # 📩 문의 및 건의
 
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+
 ## 문의 안내
 
 서버 이용 중 문의하고 싶은 부분이 있으시다면

@@ -14,3 +14,5 @@
 ## 다른 플레이어 추가
 
 * 잠긴 표지판에 **우클릭**하면 다른 플레이어를 추가하여 함께 사용할 수 있습니다.
+
+<figure><img src="../.gitbook/assets/4D49C7D3-8813-4322-9506-1A61D7DE7382.gif" alt=""><figcaption></figcaption></figure>

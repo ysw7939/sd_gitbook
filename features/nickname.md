@@ -2,6 +2,8 @@
 
 한글 닉네임 기능을 사용하면 마인크래프트 닉네임 대신 **한글로 된 닉네임**을 설정할 수 있습니다.
 
+<figure><img src="../.gitbook/assets/ADFF9264-F56C-4969-8233-10696D12907A.gif" alt=""><figcaption></figcaption></figure>
+
 ## 사용 방법
 
 * `/한글닉네임 <원하는닉네임>` — 한글 닉네임 설정

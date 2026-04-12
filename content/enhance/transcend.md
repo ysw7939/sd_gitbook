@@ -5,6 +5,8 @@
 * 곡괭이: `/강화` 또는 `/초월`
 * 괭이: `/강화괭이` 또는 `/초월괭이`
 
+<figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
+
 ## 강화 방법
 
 1. 강화 메뉴를 열고 장비를 등록합니다.

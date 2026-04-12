@@ -6,6 +6,10 @@
 
 농장이 생성되면 기본 크기의 섬이 주어지며, 업그레이드를 통해 확장할 수 있습니다.
 
+<figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+
 {% hint style="info" %}
 농장 이름은 부적절한 단어가 포함될 수 없습니다. (서버 규칙 참고)
 {% endhint %}

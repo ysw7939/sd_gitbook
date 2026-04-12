@@ -2,6 +2,8 @@
 
 진주는 농사 또는 채굴 중 확률적으로 획득할 수 있는 특별 아이템입니다.
 
+<figure><img src="../.gitbook/assets/image (18).png" alt=""><figcaption></figcaption></figure>
+
 ## 진주 드롭 확률
 
 ### 농장 서버

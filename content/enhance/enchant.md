@@ -5,6 +5,8 @@
 * 곡괭이: `/인첸트` 또는 `/인챈트`
 * 괭이: `/인첸트괭이` 또는 `/인챈트괭이`
 
+<figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
+
 ## 강화 방법
 
 1. 강화 메뉴를 열고 장비를 등록합니다.
