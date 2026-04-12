@@ -20,20 +20,20 @@
 
 ## 레시피 목록
 
-| 요리 | 재료 | 조리 시간 |
-| --- | --- | --- |
-| 찐 당근 감자 | 당근 x1, 감자 x1 | 15초 |
-| 당근 감자 스튜 | 당근 상자 x1, 감자 상자 x1 | 60초 |
-| 호박 사과 파이 | 호박 상자 x1, 사과 상자 x1 | 60초 |
-| 양배추 양파 볶음 | 비트 x1, 양배추 x1, 밀 상자 x1 | 120초 |
-| 토마토 가지 샐러드 | 토마토 x1, 가지 x1, 양배추 x1 | 120초 |
-| 파인애플 포도 주스 | 파인애플 x1, 포도 x1, 사탕수수 상자 x1 | 120초 |
-| 장어 가지 덮밥 | 대구 x1, 가지 x1, 밀 상자 x1 | 300초 |
-| 구운 연어와 옥수수 | 연어 x1, 옥수수 x1, 감자 상자 x1 | 300초 |
-| 구운 랍스터 토마토 | 열대어 x1, 토마토 x1, 밀 상자 x1 | 300초 |
-| 범고래 랍스터 덮밥 | 대구 x1, 열대어 x1, 밀 상자 x1 | 600초 |
-| 상어 참치 전골 | 연어 x1, 참치 x1, 밀 상자 x1 | 600초 |
-| 소라 연어 찜 | 앵무조개 x1, 연어 x1, 감자 상자 x1 | 600초 |
+| | 요리 | 재료 | 조리 시간 |
+| --- | --- | --- | --- |
+| ![](../.gitbook/assets/food_steamed_carrot_potato.png) | 찐 당근 감자 | 당근 x1, 감자 x1 | 15초 |
+| ![](../.gitbook/assets/food_carrot_potato_stew.png) | 당근 감자 스튜 | 당근 상자 x1, 감자 상자 x1 | 60초 |
+| ![](../.gitbook/assets/food_pumpkin_apple_pie.png) | 호박 사과 파이 | 호박 상자 x1, 사과 상자 x1 | 60초 |
+| ![](../.gitbook/assets/food_cabbage_onion_stir_fry.png) | 양배추 양파 볶음 | 비트 x1, 양배추 x1, 밀 상자 x1 | 120초 |
+| ![](../.gitbook/assets/food_tomato_eggplant_salad.png) | 토마토 가지 샐러드 | 토마토 x1, 가지 x1, 양배추 x1 | 120초 |
+| ![](../.gitbook/assets/food_pineapple_grape_juice.png) | 파인애플 포도 주스 | 파인애플 x1, 포도 x1, 사탕수수 상자 x1 | 120초 |
+| ![](../.gitbook/assets/food_eel_eggplant_rice_bowl.png) | 장어 가지 덮밥 | 대구 x1, 가지 x1, 밀 상자 x1 | 300초 |
+| ![](../.gitbook/assets/food_grilled_salmon_with_corn.png) | 구운 연어와 옥수수 | 연어 x1, 옥수수 x1, 감자 상자 x1 | 300초 |
+| ![](../.gitbook/assets/food_grilled_lobster_with_tomato.png) | 구운 랍스터 토마토 | 열대어 x1, 토마토 x1, 밀 상자 x1 | 300초 |
+| ![](../.gitbook/assets/food_orca_lobster_rice_bowl.png) | 범고래 랍스터 덮밥 | 대구 x1, 열대어 x1, 밀 상자 x1 | 600초 |
+| ![](../.gitbook/assets/food_shark_tuna_hotpot.png) | 상어 참치 전골 | 연어 x1, 참치 x1, 밀 상자 x1 | 600초 |
+| ![](../.gitbook/assets/food_whelk_steamed_salmon.png) | 소라 연어 찜 | 앵무조개 x1, 연어 x1, 감자 상자 x1 | 600초 |
 
 {% hint style="info" %}
 조리 시간이 길수록 높은 등급의 요리이며, 판매 가격이 높습니다.

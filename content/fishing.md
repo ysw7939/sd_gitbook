@@ -25,48 +25,48 @@
 
 ### S급
 
-| 이름 | 비고 |
-| --- | --- |
-| 상어 | HP가 매우 높으며, 잡기 어려운 최상급 물고기 |
+| | 이름 | 비고 |
+| --- | --- | --- |
+| ![](../.gitbook/assets/fish_shark.png) | 상어 | HP가 매우 높으며, 잡기 어려운 최상급 물고기 |
 
 ### A급
 
-| 이름 |
-| --- |
-| 가오리 |
-| 해파리 |
-| 랍스터 |
-| 장어 |
-| 연어 |
-| 참치 |
+| | 이름 |
+| --- | --- |
+| ![](../.gitbook/assets/fish_a1_stingray.png) | 가오리 |
+| ![](../.gitbook/assets/fish_a2_jellyfish.png) | 해파리 |
+| ![](../.gitbook/assets/fish_a3_lobster.png) | 랍스터 |
+| ![](../.gitbook/assets/fish_a4_eel.png) | 장어 |
+| ![](../.gitbook/assets/fish_a5_salmon.png) | 연어 |
+| ![](../.gitbook/assets/fish_a6_tuna.png) | 참치 |
 
 ### B급
 
-| 이름 |
-| --- |
-| 베스 |
-| 잉어 |
-| 헤마 |
-| 열대어 |
-| 쭈꾸미 |
-| 개불 |
-| 금붕어 |
-| 멸치 |
-| 개복치 |
-| 불가사리 |
-| 메기 |
+| | 이름 |
+| --- | --- |
+| ![](../.gitbook/assets/fish_b1_bass.png) | 베스 |
+| ![](../.gitbook/assets/fish_b2_carp.png) | 잉어 |
+| ![](../.gitbook/assets/fish_b3_hema.png) | 헤마 |
+| ![](../.gitbook/assets/fish_b4_tropical.png) | 열대어 |
+| ![](../.gitbook/assets/fish_b5_octopus.png) | 쭈꾸미 |
+| ![](../.gitbook/assets/fish_b6_seacucumber.png) | 개불 |
+| ![](../.gitbook/assets/fish_b7_goldfish.png) | 금붕어 |
+| ![](../.gitbook/assets/fish_b8_anchovy.png) | 멸치 |
+| ![](../.gitbook/assets/fish_b9_sunfish.png) | 개복치 |
+| ![](../.gitbook/assets/fish_b10_starfish.png) | 불가사리 |
+| ![](../.gitbook/assets/fish_b11_catfish.png) | 메기 |
 
 ### C급
 
-| 이름 |
-| --- |
-| 빈깡통 |
-| 독개구리 |
-| 나무판자 |
-| 청개구리 |
-| 송사리 |
-| 쓰레기 봉투 |
-| 캔콜라 |
+| | 이름 |
+| --- | --- |
+| ![](../.gitbook/assets/fish_c1_can.png) | 빈깡통 |
+| ![](../.gitbook/assets/fish_c2_poisonfrog.png) | 독개구리 |
+| ![](../.gitbook/assets/fish_c3_woodplank.png) | 나무판자 |
+| ![](../.gitbook/assets/fish_c4_treefrog.png) | 청개구리 |
+| ![](../.gitbook/assets/fish_c5_medaka.png) | 송사리 |
+| ![](../.gitbook/assets/fish_c6_trashbag.png) | 쓰레기 봉투 |
+| ![](../.gitbook/assets/fish_c7_cola.png) | 캔콜라 |
 
 {% hint style="info" %}
 행운 스탯이 높은 낚싯대를 사용하면 높은 등급의 물고기가 잡힐 확률이 올라갑니다.
