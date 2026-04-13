@@ -62,25 +62,32 @@
 
 ### 작은 수달 방어구
 
-| 아이템 |
-| --- |
-| 작은 수달 투구 |
-| 작은 수달 흉갑 |
-| 작은 수달 레깅스 |
-| 작은 수달 부츠 |
+| | 아이템 |
+| --- | --- |
+| ![](../.gitbook/assets/gacha_otter_helmet.png) | 작은 수달 투구 |
+| ![](../.gitbook/assets/gacha_otter_chestplate.png) | 작은 수달 흉갑 |
+| ![](../.gitbook/assets/gacha_otter_leggings.png) | 작은 수달 레깅스 |
+| ![](../.gitbook/assets/gacha_otter_boots.png) | 작은 수달 부츠 |
 
 ### 작은 수달 도구
 
-| 아이템 |
-| --- |
-| 작은 수달 괭이 / 삽 / 도끼 / 곡괭이 |
-| 작은 수달 낚싯대 |
+| | 아이템 |
+| --- | --- |
+| ![](../.gitbook/assets/gacha_otter_hoe.png) | 작은 수달 괭이 |
+| ![](../.gitbook/assets/gacha_otter_shovel.png) | 작은 수달 삽 |
+| ![](../.gitbook/assets/gacha_otter_axe.png) | 작은 수달 도끼 |
+| ![](../.gitbook/assets/gacha_otter_pickaxe.png) | 작은 수달 곡괭이 |
+| ![](../.gitbook/assets/gacha_otter_fishing_rod.png) | 작은 수달 낚싯대 |
 
 ### 수달 도구 (희귀)
 
-| 아이템 |
-| --- |
-| 수달 괭이 / 삽 / 도끼 / 곡괭이 / 낚싯대 |
+| | 아이템 |
+| --- | --- |
+| ![](../.gitbook/assets/gacha_youain_hoe.png) | 수달 괭이 |
+| ![](../.gitbook/assets/gacha_youain_shovel.png) | 수달 삽 |
+| ![](../.gitbook/assets/gacha_youain_axe.png) | 수달 도끼 |
+| ![](../.gitbook/assets/gacha_youain_pickaxe.png) | 수달 곡괭이 |
+| ![](../.gitbook/assets/gacha_youain_fishing_rod.png) | 수달 낚싯대 |
 
 ### 특별 보상 (최희귀)
 
