@@ -6,55 +6,7 @@
 치장 아이템은 착용 전 **미리보기**(30초)를 통해 확인할 수 있습니다.
 {% endhint %}
 
-## 치장 종류
 
-### 모자
-
-머리에 착용하는 치장 아이템입니다.
-
-| 아이템 | 설명 |
-| --- | --- |
-| 소방 모자 | 소방관 테마 모자 |
-| 경찰 모자 | 경찰관 테마 모자 |
-| 수달 모자 | 수달 테마 모자 |
-
-### 등 치장
-
-등에 부착되는 장식 아이템입니다.
-
-| 아이템 | 설명 |
-| --- | --- |
-| 경찰 백팩 | 경찰관 테마 백팩 |
-| 소방 백팩 | 소방관 소화기 백팩 |
-| 수달 조개 등치장 | 수달 조개 테마 등 장식 |
-
-### 왼손 치장
-
-왼손(보조 손)에 장착하는 치장 아이템입니다.
-
-| 아이템 | 설명 |
-| --- | --- |
-| 경찰 곤봉 | 경찰관 테마 곤봉 |
-| 소방 도끼 | 소방관 테마 도끼 |
-| 금붕어 손치장 | 금붕어 테마 손 장식 |
-
-### 풍선
-
-머리 위에 떠다니는 풍선 아이템입니다.
-
-| 아이템 | 설명 |
-| --- | --- |
-| 경찰 풍선 | 경찰관 테마 풍선 |
-| 소방 풍선 | 소방관 테마 풍선 |
-
-### 이동 효과
-
-이동 시 발생하는 파티클 효과입니다.
-
-| | 아이템 | 설명 |
-| --- | --- | --- |
-| ![](../.gitbook/assets/cosmetic_sakura.png) | 벚꽃 이동효과 | 이동 시 벚꽃 파티클 발생 |
-| ![](../.gitbook/assets/cosmetic_rainbow.png) | 무지개 이동효과 | 이동 시 무지개 파티클 발생 |
 
 ## 수달 세트 뽑기
 
@@ -62,39 +14,39 @@
 
 ### 작은 수달 방어구
 
-| | 아이템 |
-| --- | --- |
-| ![](../.gitbook/assets/gacha_otter_helmet.png) | 작은 수달 투구 |
-| ![](../.gitbook/assets/gacha_otter_chestplate.png) | 작은 수달 흉갑 |
-| ![](../.gitbook/assets/gacha_otter_leggings.png) | 작은 수달 레깅스 |
-| ![](../.gitbook/assets/gacha_otter_boots.png) | 작은 수달 부츠 |
+|                                                    | 아이템       |
+| -------------------------------------------------- | --------- |
+| ![](../.gitbook/assets/gacha_otter_helmet.png)     | 작은 수달 투구  |
+| ![](../.gitbook/assets/gacha_otter_chestplate.png) | 작은 수달 흉갑  |
+| ![](../.gitbook/assets/gacha_otter_leggings.png)   | 작은 수달 레깅스 |
+| ![](../.gitbook/assets/gacha_otter_boots.png)      | 작은 수달 부츠  |
 
 ### 작은 수달 도구
 
-| | 아이템 |
-| --- | --- |
-| ![](../.gitbook/assets/gacha_otter_hoe.png) | 작은 수달 괭이 |
-| ![](../.gitbook/assets/gacha_otter_shovel.png) | 작은 수달 삽 |
-| ![](../.gitbook/assets/gacha_otter_axe.png) | 작은 수달 도끼 |
-| ![](../.gitbook/assets/gacha_otter_pickaxe.png) | 작은 수달 곡괭이 |
+|                                                     | 아이템       |
+| --------------------------------------------------- | --------- |
+| ![](../.gitbook/assets/gacha_otter_hoe.png)         | 작은 수달 괭이  |
+| ![](../.gitbook/assets/gacha_otter_shovel.png)      | 작은 수달 삽   |
+| ![](../.gitbook/assets/gacha_otter_axe.png)         | 작은 수달 도끼  |
+| ![](../.gitbook/assets/gacha_otter_pickaxe.png)     | 작은 수달 곡괭이 |
 | ![](../.gitbook/assets/gacha_otter_fishing_rod.png) | 작은 수달 낚싯대 |
 
 ### 수달 도구 (희귀)
 
-| | 아이템 |
-| --- | --- |
-| ![](../.gitbook/assets/gacha_youain_hoe.png) | 수달 괭이 |
-| ![](../.gitbook/assets/gacha_youain_shovel.png) | 수달 삽 |
-| ![](../.gitbook/assets/gacha_youain_axe.png) | 수달 도끼 |
-| ![](../.gitbook/assets/gacha_youain_pickaxe.png) | 수달 곡괭이 |
+|                                                      | 아이템    |
+| ---------------------------------------------------- | ------ |
+| ![](../.gitbook/assets/gacha_youain_hoe.png)         | 수달 괭이  |
+| ![](../.gitbook/assets/gacha_youain_shovel.png)      | 수달 삽   |
+| ![](../.gitbook/assets/gacha_youain_axe.png)         | 수달 도끼  |
+| ![](../.gitbook/assets/gacha_youain_pickaxe.png)     | 수달 곡괭이 |
 | ![](../.gitbook/assets/gacha_youain_fishing_rod.png) | 수달 낚싯대 |
 
 ### 특별 보상 (최희귀)
 
-| | 아이템 | 설명 |
-| --- | --- | --- |
+|                                                    | 아이템      | 설명                |
+| -------------------------------------------------- | -------- | ----------------- |
 | ![](../.gitbook/assets/gacha_pet_magnet_otter.png) | 제작수달 자석펫 | 드롭 아이템을 자동 수집하는 펫 |
-| ![](../.gitbook/assets/gacha_pet_sleepy_otter.png) | 슬리피 수달 펫 | 귀여운 수달 펫 |
+| ![](../.gitbook/assets/gacha_pet_sleepy_otter.png) | 슬리피 수달 펫 | 귀여운 수달 펫          |
 
 ## 칭호
 
