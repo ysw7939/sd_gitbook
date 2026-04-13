@@ -48,11 +48,6 @@
 | ![](../.gitbook/assets/gacha_pet_magnet_otter.png) | 제작수달 자석펫 | 드롭 아이템을 자동 수집하는 펫 |
 | ![](../.gitbook/assets/gacha_pet_sleepy_otter.png) | 슬리피 수달 펫 | 귀여운 수달 펫          |
 
-## 칭호
-
-특별한 업적이나 이벤트를 통해 획득할 수 있는 칭호입니다.\
-닉네임 앞에 표시됩니다.
-
 ## 펫
 
 `/펫` 명령어로 펫을 소환하거나 관리할 수 있습니다.\
