@@ -30,6 +30,7 @@
 ## 아이템 정보
 
 * [💵 아이템 시세](items/prices.md)
+* [💎 캐시 상점](items/cashshop.md)
 * [🧸 치장 아이템](items/cosmetics.md)
 
 ## 기타 기능
