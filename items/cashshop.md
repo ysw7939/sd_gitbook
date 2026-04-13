@@ -14,8 +14,8 @@
 | ![](../.gitbook/assets/cash_stardust_axe.png) | [수달] 스타 도끼 | 13,000 캐시 |
 | ![](../.gitbook/assets/cash_stardust_pickaxe.png) | [수달] 스타 곡괭이 | 10,000 캐시 |
 | ![](../.gitbook/assets/cash_stardust_hoe.png) | [수달] 스타 괭이 | 13,000 캐시 |
-| | 풍요의 흉갑 | 17,000 캐시 |
-| | 전설의 괭이 | 13,000 캐시 |
+| ![](../.gitbook/assets/cash_abundance_chestplate.png) | 풍요의 흉갑 | 17,000 캐시 |
+| ![](../.gitbook/assets/cash_legend_hoe.png) | 전설의 괭이 | 13,000 캐시 |
 
 ## 발광 포션
 
