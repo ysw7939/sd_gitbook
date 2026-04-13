@@ -12,6 +12,10 @@
 
 [캐시 상점](cashshop.md)에서 **수달 세트 뽑기**(3,900 캐시)를 구매하여 아래 아이템 중 하나를 획득할 수 있습니다.
 
+<figure><img src="../.gitbook/assets/51974DE3-CA94-49D6-AE20-FDF655F3CA38.gif" alt=""><figcaption></figcaption></figure>
+
+
+
 ### 작은 수달 방어구
 
 |                                                    | 아이템       |
