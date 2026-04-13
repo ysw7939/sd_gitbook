@@ -12,40 +12,40 @@
 
 머리에 착용하는 치장 아이템입니다.
 
-| | 아이템 | 설명 |
-| --- | --- | --- |
-| ![](../.gitbook/assets/cosmetic_firefighter_hat.png) | 소방 모자 | 소방관 테마 모자 |
-| ![](../.gitbook/assets/cosmetic_police_hat.png) | 경찰 모자 | 경찰관 테마 모자 |
-| ![](../.gitbook/assets/cosmetic_otter_hat.png) | 수달 모자 | 수달 테마 모자 |
+| 아이템 | 설명 |
+| --- | --- |
+| 소방 모자 | 소방관 테마 모자 |
+| 경찰 모자 | 경찰관 테마 모자 |
+| 수달 모자 | 수달 테마 모자 |
 
 ### 등 치장
 
 등에 부착되는 장식 아이템입니다.
 
-| | 아이템 | 설명 |
-| --- | --- | --- |
-| ![](../.gitbook/assets/cosmetic_police_backpack.png) | 경찰 백팩 | 경찰관 테마 백팩 |
-| ![](../.gitbook/assets/cosmetic_firefighter_backpack.png) | 소방 백팩 | 소방관 소화기 백팩 |
-| ![](../.gitbook/assets/cosmetic_otter_shell.png) | 수달 조개 등치장 | 수달 조개 테마 등 장식 |
+| 아이템 | 설명 |
+| --- | --- |
+| 경찰 백팩 | 경찰관 테마 백팩 |
+| 소방 백팩 | 소방관 소화기 백팩 |
+| 수달 조개 등치장 | 수달 조개 테마 등 장식 |
 
 ### 왼손 치장
 
 왼손(보조 손)에 장착하는 치장 아이템입니다.
 
-| | 아이템 | 설명 |
-| --- | --- | --- |
-| ![](../.gitbook/assets/cosmetic_police_baton.png) | 경찰 곤봉 | 경찰관 테마 곤봉 |
-| ![](../.gitbook/assets/cosmetic_firefighter_axe.png) | 소방 도끼 | 소방관 테마 도끼 |
-| ![](../.gitbook/assets/cosmetic_goldfish_hand.png) | 금붕어 손치장 | 금붕어 테마 손 장식 |
+| 아이템 | 설명 |
+| --- | --- |
+| 경찰 곤봉 | 경찰관 테마 곤봉 |
+| 소방 도끼 | 소방관 테마 도끼 |
+| 금붕어 손치장 | 금붕어 테마 손 장식 |
 
 ### 풍선
 
 머리 위에 떠다니는 풍선 아이템입니다.
 
-| | 아이템 | 설명 |
-| --- | --- | --- |
-| ![](../.gitbook/assets/cosmetic_police_balloon.png) | 경찰 풍선 | 경찰관 테마 풍선 |
-| ![](../.gitbook/assets/cosmetic_firefighter_balloon.png) | 소방 풍선 | 소방관 테마 풍선 |
+| 아이템 | 설명 |
+| --- | --- |
+| 경찰 풍선 | 경찰관 테마 풍선 |
+| 소방 풍선 | 소방관 테마 풍선 |
 
 ### 이동 효과
 
