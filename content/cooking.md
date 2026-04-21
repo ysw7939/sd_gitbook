@@ -20,24 +20,55 @@
 
 ## 레시피 목록
 
+### S등급
+
 | | 요리 | 재료 | 조리 시간 |
 | --- | --- | --- | --- |
-| ![](../.gitbook/assets/food_steamed_carrot_potato.png) | 찐 당근 감자 | 당근 x1, 감자 x1 | 15초 |
-| ![](../.gitbook/assets/food_carrot_potato_stew.png) | 당근 감자 스튜 | 당근 상자 x1, 감자 상자 x1 | 60초 |
-| ![](../.gitbook/assets/food_pumpkin_apple_pie.png) | 호박 사과 파이 | 호박 상자 x1, 사과 상자 x1 | 60초 |
-| ![](../.gitbook/assets/food_cabbage_onion_stir_fry.png) | 양배추 양파 볶음 | 비트 x1, 양배추 x1, 밀 상자 x1 | 120초 |
-| ![](../.gitbook/assets/food_tomato_eggplant_salad.png) | 토마토 가지 샐러드 | 토마토 x1, 가지 x1, 양배추 x1 | 120초 |
-| ![](../.gitbook/assets/food_pineapple_grape_juice.png) | 파인애플 포도 주스 | 파인애플 x1, 포도 x1, 사탕수수 상자 x1 | 120초 |
-| ![](../.gitbook/assets/food_eel_eggplant_rice_bowl.png) | 장어 가지 덮밥 | 대구 x1, 가지 x1, 밀 상자 x1 | 300초 |
-| ![](../.gitbook/assets/food_grilled_salmon_with_corn.png) | 구운 연어와 옥수수 | 연어 x1, 옥수수 x1, 감자 상자 x1 | 300초 |
-| ![](../.gitbook/assets/food_grilled_lobster_with_tomato.png) | 구운 랍스터 토마토 | 열대어 x1, 토마토 x1, 밀 상자 x1 | 300초 |
-| ![](../.gitbook/assets/food_orca_lobster_rice_bowl.png) | 범고래 랍스터 덮밥 | 대구 x1, 열대어 x1, 밀 상자 x1 | 600초 |
-| ![](../.gitbook/assets/food_shark_tuna_hotpot.png) | 상어 참치 전골 | 연어 x1, 참치 x1, 밀 상자 x1 | 600초 |
-| ![](../.gitbook/assets/food_whelk_steamed_salmon.png) | 소라 연어 찜 | 앵무조개 x1, 연어 x1, 감자 상자 x1 | 600초 |
+| ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크 | 한우 안심 x1, 마늘 기름 x2, \[압축]감자 x1 | 200초 |
+| ![](../.gitbook/assets/food_shark_sujebi_hotpot.png) | 상어 수제비 전골 | 귀상어 x1, 옥수수 기름 x2, \[압축]밀 x1 | 200초 |
+| ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png) | 한우 등심 호박찜 | 한우 등심 x1, 가지 기름 x2, \[압축]호박 x1 | 180초 |
+
+### A등급
+
+| | 요리 | 재료 | 조리 시간 |
+| --- | --- | --- | --- |
+| ![](../.gitbook/assets/food_brisket_garlic_stir_fry.png) | 차돌박이 마늘 볶음 | 차돌박이 x2, 마늘 기름 x1, \[압축]당근 x1 | 120초 |
+| ![](../.gitbook/assets/food_lobster_melon_carpaccio.png) | 랍스터 수박 카르파초 | 랍스터 x3, 토마토 기름 x1, \[압축]수박 x1 | 120초 |
+| ![](../.gitbook/assets/food_tuna_grape_poke.png) | 참치 포도 포케 | 참치 x3, 포도 기름 x1, \[압축]당근 x1 | 100초 |
+| ![](../.gitbook/assets/food_eel_apple_teriyaki.png) | 장어 사탕수수 조림 | 장어 x3, 가지 기름 x1, \[압축]사탕수수 x1 | 100초 |
+
+### B등급
+
+| | 요리 | 재료 | 조리 시간 |
+| --- | --- | --- | --- |
+| ![](../.gitbook/assets/food_pork_belly_cabbage_grill.png) | 삼겹살 양배추 구이 | 삼겹살 x2, 양배추 기름 x1, \[압축]밀 x1 | 60초 |
+| ![](../.gitbook/assets/food_chicken_pineapple_salad.png) | 닭가슴살 파인애플 샐러드 | 닭가슴살 x2, 파인애플 기름 x1, \[압축]사탕수수 x1 | 60초 |
+| ![](../.gitbook/assets/food_carp_eggplant_stew.png) | 잉어 가지찜 | 잉어 x3, 포도 기름 x1, \[압축]감자 x1 | 60초 |
+| ![](../.gitbook/assets/food_pork_neck_corn_steak.png) | 목살 옥수수 스테이크 | 돼지 목살 x2, 옥수수 기름 x1, \[압축]수박 x1 | 60초 |
+
+### C등급
+
+| | 요리 | 재료 | 조리 시간 |
+| --- | --- | --- | --- |
+| ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png) | 소시지 토마토 볶음밥 | 소시지 x3, 토마토 기름 x1, \[압축]감자 x1 | 30초 |
+| ![](../.gitbook/assets/food_watermelon_grape_punch.png) | 수박 포도 화채 | 햄 x3, 파인애플 기름 x1, \[압축]수박 x1 | 30초 |
+| ![](../.gitbook/assets/food_ham_tomato_soup.png) | 햄 토마토 수프 | 햄 x3, 양배추 기름 x1, \[압축]당근 x1 | 30초 |
+| ![](../.gitbook/assets/food_bacon_corn_sandwich.png) | 베이컨 옥수수 샌드위치 | 베이컨 x3, 옥수수 기름 x1, \[압축]사탕수수 x1 | 30초 |
 
 {% hint style="info" %}
 조리 시간이 길수록 높은 등급의 요리이며, 판매 가격이 높습니다.
 {% endhint %}
+
+## 재료 종류
+
+요리 재료는 크게 5가지 카테고리로 나뉩니다.
+
+| 카테고리 | 획득 방법 | 예시 |
+| --- | --- | --- |
+| 정육 | 돼지 미니게임 | 소시지, 삼겹살, 차돌박이, 한우 안심 등 |
+| 물고기 | 낚시 | 잉어, 랍스터, 참치, 귀상어 등 |
+| 기름 | 채집 씨앗 5개 → 기름 1개 교환 | 토마토 기름, 마늘 기름, 포도 기름 등 |
+| 압축 농산물 | 바닐라 작물 64개 → 1개 교환 | \[압축]감자, \[압축]밀, \[압축]사탕수수 등 |
 
 {% hint style="warning" %}
 요리 판매 가격은 **매일 오전 1시(KST)**에 초기화되며, 아이템별 범위 내에서 랜덤으로 변동됩니다.\
