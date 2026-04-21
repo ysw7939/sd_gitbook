@@ -1,7 +1,7 @@
 # ⛰️ 광산
 
 광산은 메인 월드와 분리된 별도의 채굴 전용 월드입니다.\
-`/워프` 메뉴에서 광산으로 이동할 수 있습니다.
+`Shift + F` 메뉴에서 워프를 통해 광산으로 이동할 수 있습니다.
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
 
