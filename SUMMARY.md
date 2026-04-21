@@ -13,7 +13,7 @@
   * [화분](content/minifarm/flowerpots.md)
   * [농장 투자](content/minifarm/investment.md)
 * [📜 스탯](content/stats/README.md)
-  * [🌾 채집 스킬](content/stats/farming.md)
+  * [🌾 농사 스킬](content/stats/farming.md)
   * [⛏️ 채굴 스킬](content/stats/mining.md)
 * [🍆 채집](content/gathering.md)
 * [🫧 진주 줍기](content/pearl.md)
