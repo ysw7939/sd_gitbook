@@ -27,7 +27,9 @@
 
 | | 이름 | 비고 |
 | --- | --- | --- |
-| ![](../.gitbook/assets/fish_shark.png) | 상어 | HP가 매우 높으며, 잡기 어려운 최상급 물고기 |
+| ![](../.gitbook/assets/fish_s2_hammerhead.png) | 귀상어 | HP가 매우 높으며, 잡기 어려운 최상급 물고기 |
+| ![](../.gitbook/assets/fish_s3_marlin.png) | 청새치 | |
+| ![](../.gitbook/assets/fish_s4_mantaray.png) | 대왕가오리 | |
 
 ### A급
 
