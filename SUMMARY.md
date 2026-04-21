@@ -20,6 +20,7 @@
 * [🧑‍🍳 요리](content/cooking.md)
 * [🚢 무역](content/trading.md)
 * [🎣 낚시](content/fishing.md)
+* [🐷 정육](content/piggame.md)
 * [🔖 퀘스트](content/quests.md)
 * [🛠️ 강화](content/enhance/README.md)
   * [📖 인첸트 강화](content/enhance/enchant.md)
