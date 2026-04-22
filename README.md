@@ -1,6 +1,6 @@
 ---
 description: 수달농장에 오신 것을 환영해요! 🦦
-cover: .gitbook/assets/image (24).png
+cover: .gitbook/assets/sudal_farm_server_banner_slim.png
 coverY: 0
 ---
 
@@ -8,7 +8,7 @@ coverY: 0
 
 ## 서버 소개
 
-> #### 🦦 시작은 어렵지 않아요!
+> **🦦 시작은 어렵지 않아요!**
 >
 > 처음 접속해도 걱정 NO!\
 > 수달농장은 **천천히 즐길수록 더 재미있는 마인팜 서버**예요
