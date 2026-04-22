@@ -1,7 +1,26 @@
 ---
 description: 수달농장에 오신 것을 환영해요! 🦦
-cover: .gitbook/assets/sudal_farm_server_banner_slim.png
+cover: .gitbook/assets/KakaoTalk_Photo_2026-04-22-13-24-56.jpeg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # 🦦 수달농장
