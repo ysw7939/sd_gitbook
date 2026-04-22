@@ -2,7 +2,7 @@
 
 <figure><img src=".gitbook/assets/image (10).png" alt=""><figcaption></figcaption></figure>
 
-`/등급` 명령어를 통해 등급 메뉴를 열 수 있습니다.\
+스폰의 NPC **모카**(학원선생님)를 우클릭하여 등급 메뉴를 열 수 있습니다.\
 조건을 충족하면 다음 등급으로 승급할 수 있으며, 등급이 올라갈수록 더 많은 기능이 해금됩니다.
 
 {% tabs %}
