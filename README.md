@@ -46,26 +46,26 @@ layout:
 
 ## 서버 컨텐츠
 
-{% content-ref url="undefined-1/minifarm/" %}
-[minifarm](undefined-1/minifarm/)
+{% content-ref url="content/minifarm/" %}
+[minifarm](content/minifarm/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/stats/" %}
-[stats](undefined-1/stats/)
+{% content-ref url="content/stats/" %}
+[stats](content/stats/)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/fishing.md" %}
-[fishing.md](undefined-1/fishing.md)
+{% content-ref url="content/fishing.md" %}
+[fishing.md](content/fishing.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/cooking.md" %}
-[cooking.md](undefined-1/cooking.md)
+{% content-ref url="content/cooking.md" %}
+[cooking.md](content/cooking.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/trading.md" %}
-[trading.md](undefined-1/trading.md)
+{% content-ref url="content/trading.md" %}
+[trading.md](content/trading.md)
 {% endcontent-ref %}
 
-{% content-ref url="undefined-1/quests.md" %}
-[quests.md](undefined-1/quests.md)
+{% content-ref url="content/quests.md" %}
+[quests.md](content/quests.md)
 {% endcontent-ref %}
