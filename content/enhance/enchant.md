@@ -2,9 +2,6 @@
 
 인첸트 강화는 장비의 기본 능력치(효율, 내구, 행운)를 올려주는 강화입니다.
 
-* 곡괭이: `/인첸트` 또는 `/인챈트`
-* 괭이: `/인첸트괭이` 또는 `/인챈트괭이`
-
 <figure><img src="../../.gitbook/assets/image (8).png" alt=""><figcaption></figcaption></figure>
 
 ## 강화 방법

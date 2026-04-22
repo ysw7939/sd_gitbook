@@ -2,9 +2,6 @@
 
 초월 강화는 장비의 **등급(티어)**&#xC744; 올려 특수 효과를 부여하는 강화입니다.
 
-* 곡괭이: `/강화` 또는 `/초월`
-* 괭이: `/강화괭이` 또는 `/초월괭이`
-
 <figure><img src="../../.gitbook/assets/image (9).png" alt=""><figcaption></figcaption></figure>
 
 ## 강화 방법
