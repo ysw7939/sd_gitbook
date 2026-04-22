@@ -1,5 +1,5 @@
 ---
-cover: ../.gitbook/assets/69d83514-4fbe-4732-9746-31f0c20db088.jpeg
+cover: ../.gitbook/assets/16d8ad5a-58b3-4627-8fb3-c24aa787b2e0.jpeg
 coverY: 0
 layout:
   width: default
