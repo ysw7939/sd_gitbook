@@ -1,6 +1,25 @@
 ---
 cover: .gitbook/assets/83a2caa0-c963-4345-994a-9c7a73d6bbd4.jpeg
 coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
 ---
 
 # 🎫 서버 접속 방법
