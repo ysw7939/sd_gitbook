@@ -1,3 +1,27 @@
+---
+cover: ../.gitbook/assets/69d83514-4fbe-4732-9746-31f0c20db088.jpeg
+coverY: 0
+layout:
+  width: default
+  cover:
+    visible: true
+    size: hero
+  title:
+    visible: true
+  description:
+    visible: true
+  tableOfContents:
+    visible: true
+  outline:
+    visible: true
+  pagination:
+    visible: true
+  metadata:
+    visible: true
+  tags:
+    visible: true
+---
+
 # 💎 후원
 
 ## 서버 후원
