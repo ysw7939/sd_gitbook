@@ -42,7 +42,7 @@ layout:
 
 ***
 
-<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🎫 서버 접속 방법</td><td><a href=".gitbook/assets/83a2caa0-c963-4345-994a-9c7a73d6bbd4.jpeg">83a2caa0-c963-4345-994a-9c7a73d6bbd4.jpeg</a></td><td></td></tr><tr><td>📚 서버 규칙 </td><td><a href=".gitbook/assets/ChatGPT Image 2026년 4월 22일 오후 02_14_59.png">ChatGPT Image 2026년 4월 22일 오후 02_14_59.png</a></td><td><a href="rules.md">rules.md</a></td></tr><tr><td>💎 후원 </td><td><a href=".gitbook/assets/16d8ad5a-58b3-4627-8fb3-c24aa787b2e0.jpeg">16d8ad5a-58b3-4627-8fb3-c24aa787b2e0.jpeg</a></td><td></td></tr></tbody></table>
+<table data-view="cards"><thead><tr><th></th><th data-hidden data-card-cover data-type="image">Cover image</th><th data-hidden data-card-target data-type="content-ref"></th></tr></thead><tbody><tr><td>🎫 서버 접속 방법</td><td><a href=".gitbook/assets/83a2caa0-c963-4345-994a-9c7a73d6bbd4.jpeg">83a2caa0-c963-4345-994a-9c7a73d6bbd4.jpeg</a></td><td><a href="undefined.md">undefined.md</a></td></tr><tr><td>📚 서버 규칙 </td><td><a href=".gitbook/assets/ChatGPT Image 2026년 4월 22일 오후 02_14_59.png">ChatGPT Image 2026년 4월 22일 오후 02_14_59.png</a></td><td><a href="rules.md">rules.md</a></td></tr><tr><td>💎 후원 </td><td><a href=".gitbook/assets/16d8ad5a-58b3-4627-8fb3-c24aa787b2e0.jpeg">16d8ad5a-58b3-4627-8fb3-c24aa787b2e0.jpeg</a></td><td></td></tr></tbody></table>
 
 ## 서버 컨텐츠
 
