@@ -9,6 +9,12 @@
 ## 컨텐츠
 
 * [🏝️ 마인팜](content/minifarm/README.md)
+  * [기능](undefined-1/minifarm/undefined/README.md)
+    * [🛗 엘리베이터](undefined-1/minifarm/undefined/elevator.md)
+    * [🔒 잠금](undefined-1/minifarm/undefined/lock.md)
+    * [농장 은행](undefined-1/minifarm/undefined/undefined.md)
+    * [농장 권한](undefined-1/minifarm/undefined/undefined-1.md)
+    * [농장 워프](undefined-1/minifarm/undefined/undefined-2.md)
   * [농장 미리보기](content/minifarm/creation.md)
   * [농장 업그레이드](content/minifarm/upgrades.md)
   * [화분](content/minifarm/flowerpots.md)
@@ -38,8 +44,6 @@
 ## 기타 기능
 
 * [✏️ 한글 닉네임](features/nickname.md)
-* [🛗 엘리베이터](features/elevator.md)
-* [🔒 잠금](features/lock.md)
 * [💬 채팅](features/chat.md)
 * [🏷️ 단축어](features/alias.md)
 * [🐾 펫](features/pet.md)
