@@ -3,11 +3,13 @@
 요리는 다양한 재료를 조합하여 음식을 만드는 시스템입니다.\
 요리사 **달콩**을 우클릭하거나, `/원격요리`(대장 등급) 명령어로 요리 메뉴를 열 수 있습니다.
 
-<img src="../.gitbook/assets/image (26).png" alt="" data-size="original">
+<figure><img src="../.gitbook/assets/2026-04-24_17.18.21.png" alt=""><figcaption></figcaption></figure>
+
+
 
 ## 사용 방법
 
-![](<../.gitbook/assets/image (25).png>)
+<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
 
 1. 요리 메뉴에서 원하는 **레시피**를 선택합니다.
 2. 필요한 **재료**가 인벤토리에 있는지 확인합니다.
