@@ -24,6 +24,7 @@
   * [⛏️ 채굴 스킬](content/stats/mining.md)
 * [🍆 채집](content/gathering.md)
 * [🫧 진주 줍기](content/pearl.md)
+* [📦 작물 압축](content/compression.md)
 * [🧑‍🍳 요리](content/cooking.md)
 * [🚢 무역](content/trading.md)
 * [🎣 낚시](content/fishing.md)
