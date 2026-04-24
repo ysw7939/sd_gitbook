@@ -8,7 +8,21 @@
 
 <figure><img src="../../.gitbook/assets/image (12).png" alt=""><figcaption></figcaption></figure>
 
+{% tabs %}
+{% tab title="기본 섬" %}
 <figure><img src="../../.gitbook/assets/image (13).png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+
+{% tab title="블로썸 섬" %}
+<figure><img src="../../.gitbook/assets/2026-04-24_10.40.13.png" alt=""><figcaption></figcaption></figure>
+
+
+{% endtab %}
+
+{% tab title="캠프 섬 " %}
+<figure><img src="../../.gitbook/assets/2026-04-24_11.46.41.png" alt=""><figcaption></figcaption></figure>
+{% endtab %}
+{% endtabs %}
 
 {% hint style="info" %}
 농장 이름은 부적절한 단어가 포함될 수 없습니다. (서버 규칙 참고)

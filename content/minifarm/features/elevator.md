@@ -18,5 +18,3 @@
 
 * **점프 키** — 위층으로 이동
 * **Shift 키** — 아래층으로 이동
-
-<figure><img src="../../.gitbook/assets/B853460C-07A2-4DBB-90E2-40DFA5841AF8.gif" alt=""><figcaption></figcaption></figure>
