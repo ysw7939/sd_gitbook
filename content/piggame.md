@@ -1,6 +1,6 @@
 # 🐷 도축
 
-<figure><img src="../.gitbook/assets/Video Project (1) (1).gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/Video Project (1).gif" alt=""><figcaption></figcaption></figure>
 
 도축은 미니게임 형태로 진행되는 컨텐츠입니다.\
 돼지를 잡아 고기를 획득하고, 판매하거나 요리 재료로 사용할 수 있습니다.
