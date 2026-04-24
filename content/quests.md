@@ -3,6 +3,8 @@
 매일 5개의 일일 퀘스트가 주어지며, 완료하면 보상을 받을 수 있습니다.\
 `/퀘스트` 또는 `/일퀘` 명령어로 확인할 수 있습니다.
 
+<figure><img src="../.gitbook/assets/image (14).png" alt=""><figcaption></figcaption></figure>
+
 ## 퀘스트 구성
 
 * **고정 퀘스트 2개** — 매일 동일하게 출제
