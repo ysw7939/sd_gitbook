@@ -15,6 +15,12 @@
 
 <figure><img src="../.gitbook/assets/4D3EFB8C-A63B-469D-8F06-D41A254997B7.gif" alt=""><figcaption></figcaption></figure>
 
+## 씨앗 → 기름 교환
+
+채집으로 모은 **씨앗 5개**는 채집상인 **채루**에게서 **기름 1개**로 교환할 수 있습니다. (교환 조리 시간: 30초)
+
+기름은 **요리 재료**로 사용되며, 작물 종류별로 토마토·옥수수·가지·포도·마늘·파인애플·양배추 7종이 있습니다. 자세한 교환표는 [기름 시세](../items/prices.md#기름-시세), 기름이 사용되는 레시피는 [요리](cooking.md) 문서를 참고하세요.
+
 {% hint style="info" %}
 수달 괭이는 강화를 통해 더 강력하게 만들 수 있습니다. ([인첸트 강화](enhance/enchant.md), [초월 강화](enhance/transcend.md))
 {% endhint %}
