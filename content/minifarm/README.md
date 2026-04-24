@@ -11,16 +11,8 @@
 [upgrades.md](upgrades.md)
 {% endcontent-ref %}
 
-{% content-ref url="permissions.md" %}
-[permissions.md](permissions.md)
-{% endcontent-ref %}
-
-{% content-ref url="bank.md" %}
-[bank.md](bank.md)
-{% endcontent-ref %}
-
-{% content-ref url="warps.md" %}
-[warps.md](warps.md)
+{% content-ref url="features/" %}
+[features](features/)
 {% endcontent-ref %}
 
 {% content-ref url="flowerpots.md" %}
