@@ -1,12 +1,23 @@
 # 🛠️ 강화
 
-수달 괭이와 수달 곡괭이를 강화하여 더 강력하게 만들 수 있습니다.\
-대장장이 **베리**를 우클릭하면 강화 메뉴를 열 수 있습니다.
+도구를 강화하여 더 강력하게 만들 수 있습니다.\
+대장장이 NPC **베리**를 우클릭하거나 `/강화` 명령어로 강화 메뉴를 열 수 있습니다.
 
-{% content-ref url="enchant.md" %}
-[enchant.md](enchant.md)
-{% endcontent-ref %}
+강화 메뉴에서 **모드 전환 버튼**을 클릭하면 초월 강화와 인첸트 강화를 전환할 수 있습니다.
+
+## 강화 가능 도구
+
+| 도구 | 초월 강화 | 인첸트 강화 |
+| --- | --- | --- |
+| 수달 곡괭이 / 다이아 곡괭이 / 네더라이트 곡괭이 | O | O |
+| 다이아 도끼 / 네더라이트 도끼 | O | O |
+| 다이아 삽 / 네더라이트 삽 | O | O |
+| 수달 괭이 / 다이아 괭이 / 네더라이트 괭이 | O | O |
 
 {% content-ref url="transcend.md" %}
 [transcend.md](transcend.md)
+{% endcontent-ref %}
+
+{% content-ref url="enchant.md" %}
+[enchant.md](enchant.md)
 {% endcontent-ref %}
