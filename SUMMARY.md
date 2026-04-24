@@ -9,12 +9,6 @@
 ## 컨텐츠
 
 * [🏝️ 마인팜](content/minifarm/README.md)
-  * [기능](undefined-1/minifarm/undefined/README.md)
-    * [🛗 엘리베이터](undefined-1/minifarm/undefined/elevator.md)
-    * [🔒 잠금](undefined-1/minifarm/undefined/lock.md)
-    * [농장 은행](undefined-1/minifarm/undefined/undefined.md)
-    * [농장 권한](undefined-1/minifarm/undefined/undefined-1.md)
-    * [농장 워프](undefined-1/minifarm/undefined/undefined-2.md)
   * [농장 미리보기](content/minifarm/creation.md)
   * [농장 업그레이드](content/minifarm/upgrades.md)
   * [농장 권한](content/minifarm/permissions.md)
