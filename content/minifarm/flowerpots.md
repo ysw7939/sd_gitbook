@@ -4,11 +4,10 @@
 
 ## 사용 방법
 
-1. **물뿌리개에 물 채우기** — 물뿌리개를 들고 물에 우클릭하여 물을 채웁니다.
-2. **화분에 물 주기** — 물이 채워진 물뿌리개로 화분에 우클릭합니다.
-3. **씨앗 심기** — 씨앗을 들고 화분에 우클릭하여 심습니다.
+1. **화분 설치** — 화분을 우클릭하여 설치합니다.
+2. **씨앗 심기** — 씨앗을 들고 화분에 우클릭하여 심습니다.
 
-<figure><img src="../../.gitbook/assets/26DBF67C-3808-4C77-80CA-394C298AA8F2.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../.gitbook/assets/Video Project.gif" alt=""><figcaption></figcaption></figure>
 
 ## 성장 정보
 
