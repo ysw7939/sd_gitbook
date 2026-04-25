@@ -22,3 +22,7 @@
 {% content-ref url="investment.md" %}
 [investment.md](investment.md)
 {% endcontent-ref %}
+
+{% content-ref url="commands.md" %}
+[commands.md](commands.md)
+{% endcontent-ref %}
