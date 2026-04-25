@@ -99,7 +99,7 @@
 | ![](../.gitbook/assets/meat_bacon.png)   | 베이컨 |
 | ![](../.gitbook/assets/meat_ham.png)     | 햄   |
 
-## 기름 시세
+## 기름 교환 방법
 
 기름은 **채집 씨앗 5개를 교환**하여 획득합니다. (교환 조리 시간: 30초)
 
