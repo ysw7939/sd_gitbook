@@ -44,9 +44,7 @@
 | ![](../.gitbook/assets/cash_colorchat_1.png) | 하늘 채팅 | 5,000 캐시 |
 | ![](../.gitbook/assets/cash_colorchat_1.png) | 초록 채팅 | 5,000 캐시 |
 | ![](../.gitbook/assets/cash_colorchat_1.png) | 주황 채팅 | 5,000 캐시 |
-| ![](../.gitbook/assets/cash_colorchat_5.png) | 노랑 채팅 | 5,000 캐시 |
 | ![](../.gitbook/assets/cash_colorchat_1.png) | 핑크 채팅 | 5,000 캐시 |
-| ![](../.gitbook/assets/cash_colorchat_7.png) | 보라 채팅 | 5,000 캐시 |
 
 ## 유틸리티
 
