@@ -2,6 +2,8 @@
 
 상자 등의 컨테이너를 표지판으로 잠글 수 있는 기능입니다.
 
+<figure><img src="../../../.gitbook/assets/4D49C7D3-8813-4322-9506-1A61D7DE7382.gif" alt=""><figcaption></figcaption></figure>
+
 ## 잠금 방법
 
 1. **표지판**을 손에 들고 상자에 **Shift + 우클릭**합니다.
