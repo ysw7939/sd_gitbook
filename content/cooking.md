@@ -5,11 +5,9 @@
 
 <figure><img src="../.gitbook/assets/2026-04-24_17.18.21.png" alt=""><figcaption></figcaption></figure>
 
-
-
 ## 사용 방법
 
-<figure><img src="../.gitbook/assets/image (28).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (27).png" alt=""><figcaption></figcaption></figure>
 
 1. 요리 메뉴에서 원하는 **레시피**를 선택합니다.
 2. 필요한 **재료**가 인벤토리에 있는지 확인합니다.
