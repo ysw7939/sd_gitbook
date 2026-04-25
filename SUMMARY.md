@@ -19,7 +19,7 @@
     * [🔒 잠금](content/minifarm/features/lock.md)
   * [화분](content/minifarm/flowerpots.md)
   * [농장 투자](content/minifarm/investment.md)
-  * [📜 농장 명령어](content/minifarm/commands.md)
+  * [농장 명령어](content/minifarm/commands.md)
 * [📜 스탯](content/stats/README.md)
   * [🌾 농사 스킬](content/stats/farming.md)
   * [⛏️ 채굴 스킬](content/stats/mining.md)
