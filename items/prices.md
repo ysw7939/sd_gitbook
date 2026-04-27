@@ -101,17 +101,17 @@
 
 ## 기름 교환 방법
 
-기름은 **채집 씨앗 5개를 교환**하여 획득합니다. (교환 조리 시간: 30초)
+기름은 **자란 작물 5개를 교환**하여 획득합니다. (교환 조리 시간: 30초)
 
-|                                               | 아이템     | 교환 재료      |
-| --------------------------------------------- | ------- | ---------- |
-| ![](../.gitbook/assets/oil_tomato_oil.png)    | 토마토 기름  | 토마토 씨앗 x5  |
-| ![](../.gitbook/assets/oil_corn_oil.png)      | 옥수수 기름  | 옥수수 씨앗 x5  |
-| ![](../.gitbook/assets/oil_eggplant_oil.png)  | 가지 기름   | 가지 씨앗 x5   |
-| ![](../.gitbook/assets/oil_grape_oil.png)     | 포도 기름   | 포도 씨앗 x5   |
-| ![](../.gitbook/assets/oil_garlic_oil.png)    | 마늘 기름   | 마늘 씨앗 x5   |
-| ![](../.gitbook/assets/oil_pineapple_oil.png) | 파인애플 기름 | 파인애플 씨앗 x5 |
-| ![](../.gitbook/assets/oil_cabbage_oil.png)   | 양배추 기름  | 양배추 씨앗 x5  |
+|                                               | 아이템     | 교환 재료     |
+| --------------------------------------------- | ------- | --------- |
+| ![](../.gitbook/assets/oil_tomato_oil.png)    | 토마토 기름  | 토마토 x5    |
+| ![](../.gitbook/assets/oil_corn_oil.png)      | 옥수수 기름  | 옥수수 x5    |
+| ![](../.gitbook/assets/oil_eggplant_oil.png)  | 가지 기름   | 가지 x5     |
+| ![](../.gitbook/assets/oil_grape_oil.png)     | 포도 기름   | 포도 x5     |
+| ![](../.gitbook/assets/oil_garlic_oil.png)    | 마늘 기름   | 마늘 x5     |
+| ![](../.gitbook/assets/oil_pineapple_oil.png) | 파인애플 기름 | 파인애플 x5   |
+| ![](../.gitbook/assets/oil_cabbage_oil.png)   | 양배추 기름  | 양배추 x5    |
 
 ## 요리 시세
 
