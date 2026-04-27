@@ -32,7 +32,7 @@
 | 캐시 쿠폰 | 5% |
 
 {% hint style="info" %}
-빨간 가챠 캡슐은 가챠 NPC에서 즉시 사용할 수 있습니다.
+빨간 가챠 캡슐은 우클릭하여 즉시 사용할 수 있습니다.
 {% endhint %}
 
 {% hint style="warning" %}
