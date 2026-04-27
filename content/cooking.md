@@ -56,9 +56,6 @@
 | ![](../.gitbook/assets/food_chicken_pineapple_salad.png)  | 닭가슴살 파인애플 샐러드 | 닭가슴살 x2, 파인애플 기름 x1, \[압축]사탕수수 x5   | 60초   |
 | ![](../.gitbook/assets/food_carp_eggplant_stew.png)       | 잉어 가지찜        | 잉어 x3, 포도 기름 x1, \[압축]감자 x5         | 60초   |
 | ![](../.gitbook/assets/food_pork_neck_corn_steak.png)     | 목살 옥수수 스테이크   | 돼지 목살 x2, 옥수수 기름 x1, \[압축]수박 x5     | 60초   |
-|                                                           | 베스 토마토 매운탕    | 베스 x3, 토마토 기름 x1, \[압축]사과 x5        | 60초   |
-|                                                           | 개복치 베리 스테이크   | 개복치 x3, 양배추 기름 x1, \[압축]사과 x5       | 60초   |
-|                                                           | 열대어 파인애플 세비체  | 열대어 x3, 파인애플 기름 x1, \[압축]수박 블록 x5   | 60초   |
 
 ### C등급
 
