@@ -35,6 +35,7 @@
   * [🔥 초월 강화](content/enhance/transcend.md)
 * [🎲 홀짝도박](content/gamble.md)
 * [⛰️ 광산](content/mining.md)
+* [🔥 핫타임](content/hottime.md)
 
 ## 아이템 정보
 
