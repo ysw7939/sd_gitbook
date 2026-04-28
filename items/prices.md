@@ -121,33 +121,33 @@
 
 |                                                          | 요리         | 최소 가격    | 최대 가격    |
 | -------------------------------------------------------- | ---------- | -------- | -------- |
-| ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크 | 552,000원 | 602,000원 |
-| ![](../.gitbook/assets/food_shark_sujebi_hotpot.png)     | 상어 수제비 전골  | 556,000원 | 607,000원 |
-| ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png)  | 한우 등심 호박찜  | 557,000원 | 608,000원 |
+| ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크 | 578,600원 | 603,700원 |
+| ![](../.gitbook/assets/food_shark_sujebi_hotpot.png)     | 상어 수제비 전골  | 591,800원 | 617,600원 |
+| ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png)  | 한우 등심 호박찜  | 595,800원 | 621,700원 |
 
 ### A등급
 
 |                                                          | 요리          | 최소 가격   | 최대 가격   |
 | -------------------------------------------------------- | ----------- | ------- | ------- |
-| ![](../.gitbook/assets/food_brisket_garlic_stir_fry.png) | 차돌박이 마늘 볶음  | 45,000원 | 49,000원 |
-| ![](../.gitbook/assets/food_lobster_melon_carpaccio.png) | 랍스터 수박 카르파초 | 67,000원 | 73,000원 |
-| ![](../.gitbook/assets/food_tuna_grape_poke.png)         | 참치 포도 포케    | 67,000원 | 73,000원 |
-| ![](../.gitbook/assets/food_eel_apple_teriyaki.png)      | 장어 사탕수수 조림  | 68,000원 | 74,000원 |
+| ![](../.gitbook/assets/food_brisket_garlic_stir_fry.png) | 차돌박이 마늘 볶음  | 49,600원 | 51,800원 |
+| ![](../.gitbook/assets/food_lobster_melon_carpaccio.png) | 랍스터 수박 카르파초 | 72,600원 | 75,800원 |
+| ![](../.gitbook/assets/food_tuna_grape_poke.png)         | 참치 포도 포케    | 72,600원 | 75,800원 |
+| ![](../.gitbook/assets/food_eel_apple_teriyaki.png)      | 장어 사과 조림    | 75,600원 | 78,900원 |
 
 ### B등급
 
-|                                                           | 요리            | 최소 가격  | 최대 가격  |
-| --------------------------------------------------------- | ------------- | ------ | ------ |
-| ![](../.gitbook/assets/food_pork_belly_cabbage_grill.png) | 삼겹살 양배추 구이    | 8,900원 | 9,700원 |
-| ![](../.gitbook/assets/food_chicken_pineapple_salad.png)  | 닭가슴살 파인애플 샐러드 | 5,400원 | 5,900원 |
-| ![](../.gitbook/assets/food_carp_eggplant_stew.png)       | 잉어 가지찜        | 8,000원 | 8,700원 |
-| ![](../.gitbook/assets/food_pork_neck_corn_steak.png)     | 목살 옥수수 스테이크   | 4,700원 | 5,100원 |
+|                                                           | 요리            | 최소 가격   | 최대 가격   |
+| --------------------------------------------------------- | ------------- | ------- | ------- |
+| ![](../.gitbook/assets/food_pork_belly_cabbage_grill.png) | 삼겹살 양배추 구이    | 29,900원 | 31,200원 |
+| ![](../.gitbook/assets/food_chicken_pineapple_salad.png)  | 닭가슴살 파인애플 샐러드 | 11,500원 | 12,000원 |
+| ![](../.gitbook/assets/food_carp_eggplant_stew.png)       | 잉어 가지찜        | 11,300원 | 11,800원 |
+| ![](../.gitbook/assets/food_pork_neck_corn_steak.png)     | 목살 옥수수 스테이크   | 7,800원  | 8,200원  |
 
 ### C등급
 
-|                                                            | 요리           | 최소 가격  | 최대 가격  |
-| ---------------------------------------------------------- | ------------ | ------ | ------ |
-| ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png) | 소시지 토마토 볶음밥  | 2,400원 | 2,600원 |
-| ![](../.gitbook/assets/food_watermelon_grape_punch.png)    | 수박 포도 화채     | 2,400원 | 2,600원 |
-| ![](../.gitbook/assets/food_ham_tomato_soup.png)           | 햄 토마토 수프     | 2,400원 | 2,600원 |
-| ![](../.gitbook/assets/food_bacon_corn_sandwich.png)       | 베이컨 옥수수 샌드위치 | 3,100원 | 3,300원 |
+|                                                            | 요리           | 최소 가격   | 최대 가격   |
+| ---------------------------------------------------------- | ------------ | ------- | ------- |
+| ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png) | 소시지 토마토 볶음밥  | 6,100원  | 6,400원  |
+| ![](../.gitbook/assets/food_watermelon_grape_punch.png)    | 수박 포도 화채     | 6,100원  | 6,400원  |
+| ![](../.gitbook/assets/food_ham_tomato_soup.png)           | 햄 토마토 수프     | 6,100원  | 6,400원  |
+| ![](../.gitbook/assets/food_bacon_corn_sandwich.png)       | 베이컨 옥수수 샌드위치 | 10,600원 | 11,000원 |
