@@ -50,10 +50,10 @@
 * [🛒 유저상점](features/userstore.md)
 * [📦 작물 압축](undefined-3/compression.md)
 * [⏱️ 접속시간](features/playtime.md)
-* [👤 프로필](features/profile.md)
 
 ## 편의 기능
 
+* [👤 프로필](undefined-4/profile.md)
 * [✏️ 한글 닉네임](undefined-4/nickname.md)
 * [🏷️ 단축어](undefined-4/alias.md)
 * [🎒 창고](undefined-4/bag.md)
