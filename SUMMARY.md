@@ -42,19 +42,22 @@
 * [💵 아이템 시세](items/prices.md)
 * [💎 캐시 상점](items/cashshop.md)
 * [🧸 치장 아이템](items/cosmetics.md)
+* [🐾 펫](undefined-2/pet.md)
 
 ## 기타 기능
 
-* [📦 작물 압축](undefined-3/compression.md)
-* [✏️ 한글 닉네임](features/nickname.md)
 * [💬 채팅](features/chat.md)
-* [🏷️ 단축어](features/alias.md)
-* [🐾 펫](features/pet.md)
-* [🎒 창고](features/bag.md)
 * [🛒 유저상점](features/userstore.md)
+* [📦 작물 압축](undefined-3/compression.md)
 * [⏱️ 접속시간](features/playtime.md)
+
+## 편의 기능
+
+* [✏️ 한글 닉네임](undefined-4/nickname.md)
+* [🏷️ 단축어](undefined-4/alias.md)
+* [🎒 창고](undefined-4/bag.md)
 
 ## 문의사항
 
-* [💎 후원](inquiries/donation.md)
-* [📩 문의 및 건의](inquiries/contact.md)
+* [💎 후원](undefined-5/donation.md)
+* [📩 문의 및 건의](undefined-5/contact.md)
