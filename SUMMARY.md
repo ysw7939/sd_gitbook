@@ -50,6 +50,7 @@
 * [🛒 유저상점](features/userstore.md)
 * [📦 작물 압축](undefined-3/compression.md)
 * [⏱️ 접속시간](features/playtime.md)
+* [👤 프로필](features/profile.md)
 
 ## 편의 기능
 
