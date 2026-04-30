@@ -51,6 +51,10 @@
 
 ## 디스코드 연동
 
+<figure><img src="../.gitbook/assets/image (30).png" alt=""><figcaption></figcaption></figure>
+
+<figure><img src="../.gitbook/assets/image (29).png" alt=""><figcaption></figcaption></figure>
+
 내 프로필의 디스코드 아이콘을 클릭하면 디스코드 계정 연동을 진행할 수 있습니다.
 
 1. 디스코드의 **마크-계정연동** 채널에서 계정 연동 버튼을 누릅니다.
