@@ -54,6 +54,7 @@
 ## 편의 기능
 
 * [👤 프로필](undefined-4/profile.md)
+* [🤝 유저 거래](undefined-4/deal.md)
 * [✏️ 한글 닉네임](undefined-4/nickname.md)
 * [🏷️ 단축어](undefined-4/alias.md)
 * [🎒 창고](undefined-4/bag.md)
