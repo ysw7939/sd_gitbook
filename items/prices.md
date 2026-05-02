@@ -62,7 +62,7 @@
 | ![](../.gitbook/assets/fish_s3_marlin.png)     | 청새치   |
 | ![](../.gitbook/assets/fish_s4_mantaray.png)   | 대왕가오리 |
 
-### A급 — 20,000원
+### A급 — 20,000원 (유저 거래 최대 시세 100,000원)
 
 |                                               | 아이템 |
 | --------------------------------------------- | --- |
@@ -147,6 +147,13 @@
 | ![](../.gitbook/assets/oil_garlic_oil.png)    | 마늘 기름   | 마늘 x5     |
 | ![](../.gitbook/assets/oil_pineapple_oil.png) | 파인애플 기름 | 파인애플 x5   |
 | ![](../.gitbook/assets/oil_cabbage_oil.png)   | 양배추 기름  | 양배추 x5    |
+
+## 인챈트 강화 재료 시세
+
+|                                                     | 아이템      | 유저 거래 최대 시세 |
+| --------------------------------------------------- | -------- | ----------- |
+| ![](../.gitbook/assets/cash_otter_stone.png)        | 수달석      | 20,000원     |
+| ![](../.gitbook/assets/cash_glossy_otter_stone.png) | 윤기나는 수달석 | 300,000원    |
 
 ## 요리 시세
 
