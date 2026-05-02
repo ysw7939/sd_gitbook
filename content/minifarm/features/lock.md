@@ -2,7 +2,7 @@
 
 상자나 통 같은 컨테이너를 자물쇠로 잠글 수 있는 기능입니다.
 
-<figure><img src="../../../.gitbook/assets/4D49C7D3-8813-4322-9506-1A61D7DE7382.gif" alt=""><figcaption></figcaption></figure>
+<figure><img src="../../../.gitbook/assets/image (31).png" alt=""><figcaption></figcaption></figure>
 
 ## 잠금 방법
 

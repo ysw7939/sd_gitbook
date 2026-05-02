@@ -9,36 +9,36 @@
 
 ### 기본 농작물
 
-| 아이템 | 가격 |
-| ---- | ---- |
-| 감자 | 2원 |
-| 당근 | 2원 |
-| 호박 | 13원 |
-| 수박 | 1원 |
-| 수박 블록 (섬세한 손길 필요) | 14원 |
-| 밀 | 6원 |
-| 비트 | 7원 |
-| 코코아 콩 | 6원 |
-| 네더 사마귀 | 2원 |
-| 사탕수수 | 5원 |
-| 건초더미 | 54원 |
-| 구운 감자 | 2원 |
-| 독감자 | 100원 |
+| 아이템               | 가격   |
+| ----------------- | ---- |
+| 감자                | 2원   |
+| 당근                | 2원   |
+| 호박                | 13원  |
+| 수박                | 1원   |
+| 수박 블록 (섬세한 손길 필요) | 14원  |
+| 밀                 | 6원   |
+| 비트                | 7원   |
+| 코코아 콩             | 6원   |
+| 네더 사마귀            | 2원   |
+| 사탕수수              | 5원   |
+| 건초더미              | 54원  |
+| 구운 감자             | 2원   |
+| 독감자               | 100원 |
 
 ### 압축 농작물
 
 압축 시 원단가 × 64 × 1.10 (10% 보너스)
 
-| 아이템 | 가격 |
-| ---- | ---- |
-| \[압축]감자 | 141원 |
-| \[압축]당근 | 141원 |
-| \[압축]호박 | 915원 |
-| \[압축]수박 블록 | 986원 |
-| \[압축]밀 | 422원 |
-| \[압축]수박 | 71원 |
-| \[압축]사탕수수 | 352원 |
-| \[압축]건초더미 | 3,802원 |
+| 아이템        | 가격     |
+| ---------- | ------ |
+| \[압축]감자    | 141원   |
+| \[압축]당근    | 141원   |
+| \[압축]호박    | 915원   |
+| \[압축]수박 블록 | 986원   |
+| \[압축]밀     | 422원   |
+| \[압축]수박    | 71원    |
+| \[압축]사탕수수  | 352원   |
+| \[압축]건초더미  | 3,802원 |
 
 ### 채집 작물
 
@@ -138,15 +138,15 @@
 
 기름은 **자란 작물 5개를 교환**하여 획득합니다. (교환 조리 시간: 30초)
 
-|                                               | 아이템     | 교환 재료     |
-| --------------------------------------------- | ------- | --------- |
-| ![](../.gitbook/assets/oil_tomato_oil.png)    | 토마토 기름  | 토마토 x5    |
-| ![](../.gitbook/assets/oil_corn_oil.png)      | 옥수수 기름  | 옥수수 x5    |
-| ![](../.gitbook/assets/oil_eggplant_oil.png)  | 가지 기름   | 가지 x5     |
-| ![](../.gitbook/assets/oil_grape_oil.png)     | 포도 기름   | 포도 x5     |
-| ![](../.gitbook/assets/oil_garlic_oil.png)    | 마늘 기름   | 마늘 x5     |
-| ![](../.gitbook/assets/oil_pineapple_oil.png) | 파인애플 기름 | 파인애플 x5   |
-| ![](../.gitbook/assets/oil_cabbage_oil.png)   | 양배추 기름  | 양배추 x5    |
+|                                               | 아이템     | 교환 재료   |
+| --------------------------------------------- | ------- | ------- |
+| ![](../.gitbook/assets/oil_tomato_oil.png)    | 토마토 기름  | 토마토 x5  |
+| ![](../.gitbook/assets/oil_corn_oil.png)      | 옥수수 기름  | 옥수수 x5  |
+| ![](../.gitbook/assets/oil_eggplant_oil.png)  | 가지 기름   | 가지 x5   |
+| ![](../.gitbook/assets/oil_grape_oil.png)     | 포도 기름   | 포도 x5   |
+| ![](../.gitbook/assets/oil_garlic_oil.png)    | 마늘 기름   | 마늘 x5   |
+| ![](../.gitbook/assets/oil_pineapple_oil.png) | 파인애플 기름 | 파인애플 x5 |
+| ![](../.gitbook/assets/oil_cabbage_oil.png)   | 양배추 기름  | 양배추 x5  |
 
 ## 인챈트 강화 재료 시세
 
@@ -161,13 +161,13 @@
 
 ### S등급
 
-|                                                          | 요리         | 현재 가격    |
-| -------------------------------------------------------- | ---------- | -------- |
-| ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크 | 599,183원 |
-| ![](../.gitbook/assets/food_shark_sujebi_hotpot.png)     | 상어 수제비 전골  | 608,292원 |
-| ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png)  | 한우 등심 호박찜  | 598,359원 |
-| ![](../.gitbook/assets/food_marlin_eggplant_grill.png)   | 청새치 가지 수박 그릴 | 586,358원 |
-| ![](../.gitbook/assets/food_manta_pumpkin_pot_rice.png)  | 대왕가오리 호박 포도 솥밥 | 591,743원 |
+|                                                          | 요리             | 현재 가격    |
+| -------------------------------------------------------- | -------------- | -------- |
+| ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크     | 599,183원 |
+| ![](../.gitbook/assets/food_shark_sujebi_hotpot.png)     | 상어 수제비 전골      | 608,292원 |
+| ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png)  | 한우 등심 호박찜      | 598,359원 |
+|                                                          | 청새치 가지 수박 그릴   | 586,358원 |
+|                                                          | 대왕가오리 호박 포도 솥밥 | 591,743원 |
 
 ### A등급
 
@@ -186,17 +186,17 @@
 | ![](../.gitbook/assets/food_chicken_pineapple_salad.png)  | 닭가슴살 파인애플 샐러드 | 6,689원  |
 | ![](../.gitbook/assets/food_carp_eggplant_stew.png)       | 잉어 가지찜        | 8,941원  |
 | ![](../.gitbook/assets/food_pork_neck_corn_steak.png)     | 목살 옥수수 스테이크   | 10,607원 |
-| ![](../.gitbook/assets/food_bass_tomato_spicy_stew.png)   | 베스 토마토 매운탕    | 38,001원 |
-| ![](../.gitbook/assets/food_sunfish_berry_steak.png)      | 개복치 베리 스테이크   | 37,706원 |
-| ![](../.gitbook/assets/food_tropical_fish_pineapple_ceviche.png) | 열대어 파인애플 세비체 | 13,946원 |
+|                                                           | 베스 토마토 매운탕    | 38,001원 |
+|                                                           | 개복치 베리 스테이크   | 37,706원 |
+|                                                           | 열대어 파인애플 세비체  | 13,946원 |
 
 ### C등급
 
-|                                                            | 요리           | 현재 가격   |
-| ---------------------------------------------------------- | ------------ | ------- |
-| ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png) | 소시지 토마토 볶음밥  | 3,238원  |
-| ![](../.gitbook/assets/food_watermelon_grape_punch.png)    | 수박 포도 화채     | 9,334원  |
-| ![](../.gitbook/assets/food_ham_tomato_soup.png)           | 햄 토마토 수프     | 3,255원  |
-| ![](../.gitbook/assets/food_bacon_corn_sandwich.png)       | 베이컨 옥수수 샌드위치 | 4,703원  |
-|                                                            | 압축 네더 뿌리 전골  | 21,258원 |
+|                                                            | 요리            | 현재 가격    |
+| ---------------------------------------------------------- | ------------- | -------- |
+| ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png) | 소시지 토마토 볶음밥   | 3,238원   |
+| ![](../.gitbook/assets/food_watermelon_grape_punch.png)    | 수박 포도 화채      | 9,334원   |
+| ![](../.gitbook/assets/food_ham_tomato_soup.png)           | 햄 토마토 수프      | 3,255원   |
+| ![](../.gitbook/assets/food_bacon_corn_sandwich.png)       | 베이컨 옥수수 샌드위치  | 4,703원   |
+|                                                            | 압축 네더 뿌리 전골   | 21,258원  |
 |                                                            | 압축 코코아 작물 케이크 | 116,228원 |
