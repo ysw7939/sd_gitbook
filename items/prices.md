@@ -110,13 +110,13 @@
 | ![](../.gitbook/assets/meat_hanwoo_tenderloin.png) | 한우 안심 |
 | ![](../.gitbook/assets/meat_hanwoo_sirloin.png)    | 한우 등심 |
 
-### A급 — 20,000원
+### A급 — 60,000원
 
 |                                               | 아이템  |
 | --------------------------------------------- | ---- |
 | ![](../.gitbook/assets/meat_beef_brisket.png) | 차돌박이 |
 
-### B급 — 1,500원
+### B급 — 2,500원
 
 |                                                  | 아이템   |
 | ------------------------------------------------ | ----- |
@@ -126,7 +126,7 @@
 | ![](../.gitbook/assets/meat_chicken_breast.png)  | 닭가슴살  |
 | ![](../.gitbook/assets/meat_chicken_leg.png)     | 닭다리살  |
 
-### C급 — 300원
+### C급 — 800원
 
 |                                          | 아이템 |
 | ---------------------------------------- | --- |
