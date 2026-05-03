@@ -174,9 +174,6 @@
 |                                                          | 요리          | 현재 가격   |
 | -------------------------------------------------------- | ----------- | ------- |
 | ![](../.gitbook/assets/food_brisket_garlic_stir_fry.png) | 차돌박이 마늘 볶음  | 49,748원 |
-| ![](../.gitbook/assets/food_lobster_melon_carpaccio.png) | 랍스터 수박 카르파초 | 74,929원 |
-| ![](../.gitbook/assets/food_tuna_grape_poke.png)         | 참치 포도 포케    | 72,004원 |
-| ![](../.gitbook/assets/food_eel_apple_teriyaki.png)      | 장어 사과 조림    | 73,377원 |
 
 ### B등급
 
@@ -189,6 +186,9 @@
 |                                                           | 베스 토마토 매운탕    | 38,001원 |
 |                                                           | 개복치 베리 스테이크   | 37,706원 |
 |                                                           | 열대어 파인애플 세비체  | 13,946원 |
+| ![](../.gitbook/assets/food_lobster_melon_carpaccio.png)  | 쭈꾸미 수박 카르파초   | 25,000원 |
+| ![](../.gitbook/assets/food_tuna_grape_poke.png)          | 멸치 포도 포케      | 25,000원 |
+| ![](../.gitbook/assets/food_eel_apple_teriyaki.png)       | 메기 사과 조림      | 25,000원 |
 
 ### C등급
 
