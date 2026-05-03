@@ -38,8 +38,8 @@
 | ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크     | 한우 안심 x1, 마늘 기름 x2, \[압축]감자 x3  | 200초  |
 | ![](../.gitbook/assets/food_shark_sujebi_hotpot.png)     | 상어 수제비 전골      | 귀상어 x1, 옥수수 기름 x2, \[압축]건초더미 x3 | 200초  |
 | ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png)  | 한우 등심 호박찜      | 한우 등심 x1, 가지 기름 x2, \[압축]호박 x3  | 180초  |
-|                                                          | 청새치 가지 수박 그릴   | 청새치 x1, 가지 기름 x2, \[압축]수박 블록 x3 | 200초  |
-|                                                          | 대왕가오리 호박 포도 솥밥 | 대왕가오리 x1, 포도 기름 x2, \[압축]호박 x3  | 220초  |
+| ![](../.gitbook/assets/food_marlin_eggplant_grill.png)   | 청새치 가지 수박 그릴   | 청새치 x1, 가지 기름 x2, \[압축]수박 블록 x3 | 200초  |
+| ![](../.gitbook/assets/food_manta_pumpkin_pot_rice.png)  | 대왕가오리 호박 포도 솥밥 | 대왕가오리 x1, 포도 기름 x2, \[압축]호박 x3  | 220초  |
 
 ### A등급
 
@@ -55,9 +55,9 @@
 | ![](../.gitbook/assets/food_chicken_pineapple_salad.png)  | 닭가슴살 파인애플 샐러드 | 닭가슴살 x2, 파인애플 기름 x1, \[압축]사탕수수 x5 | 60초   |
 | ![](../.gitbook/assets/food_carp_eggplant_stew.png)       | 잉어 가지찜        | 잉어 x3, 포도 기름 x1, \[압축]감자 x5       | 60초   |
 | ![](../.gitbook/assets/food_pork_neck_corn_steak.png)     | 목살 옥수수 스테이크   | 돼지 목살 x2, 옥수수 기름 x1, \[압축]수박 x5   | 60초   |
-|                                                           | 베스 토마토 매운탕    | 베스 x3, 토마토 기름 x1, \[압축]사과 x5      | 60초   |
-|                                                           | 개복치 베리 스테이크   | 개복치 x3, 양배추 기름 x1, \[압축]사과 x5     | 60초   |
-|                                                           | 열대어 파인애플 세비체  | 열대어 x3, 파인애플 기름 x1, \[압축]수박 블록 x5 | 60초   |
+| ![](../.gitbook/assets/food_bass_tomato_spicy_stew.png)          | 베스 토마토 매운탕    | 베스 x3, 토마토 기름 x1, \[압축]사과 x5      | 60초   |
+| ![](../.gitbook/assets/food_sunfish_berry_steak.png)             | 개복치 베리 스테이크   | 개복치 x3, 양배추 기름 x1, \[압축]사과 x5     | 60초   |
+| ![](../.gitbook/assets/food_tropical_fish_pineapple_ceviche.png) | 열대어 파인애플 세비체  | 열대어 x3, 파인애플 기름 x1, \[압축]수박 블록 x5 | 60초   |
 | ![](../.gitbook/assets/food_lobster_melon_carpaccio.png)  | 쭈꾸미 수박 카르파초   | 쭈꾸미 x3, 토마토 기름 x1, \[압축]수박 x4     | 120초  |
 | ![](../.gitbook/assets/food_tuna_grape_poke.png)          | 멸치 포도 포케      | 멸치 x3, 포도 기름 x1, \[압축]당근 x4       | 100초  |
 | ![](../.gitbook/assets/food_eel_apple_teriyaki.png)       | 메기 사과 조림      | 메기 x3, 가지 기름 x1, \[압축]사탕수수 x4     | 100초  |
@@ -69,7 +69,9 @@
 | ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png) | 소시지 토마토 볶음밥  | 소시지 x3, 토마토 기름 x1, \[압축]감자 x6   | 30초   |
 | ![](../.gitbook/assets/food_watermelon_grape_punch.png)    | 수박 포도 화채     | 햄 x3, 파인애플 기름 x1, \[압축]수박 x6    | 30초   |
 | ![](../.gitbook/assets/food_ham_tomato_soup.png)           | 햄 토마토 수프     | 햄 x3, 양배추 기름 x1, \[압축]당근 x6     | 30초   |
-| ![](../.gitbook/assets/food_bacon_corn_sandwich.png)       | 베이컨 옥수수 샌드위치 | 베이컨 x3, 옥수수 기름 x1, \[압축]사탕수수 x6 | 30초   |
+| ![](../.gitbook/assets/food_bacon_corn_sandwich.png)        | 베이컨 옥수수 샌드위치 | 베이컨 x3, 옥수수 기름 x1, \[압축]사탕수수 x6                                           | 30초   |
+| ![](../.gitbook/assets/food_compressed_nether_root_hotpot.png) | 압축 네더 뿌리 전골   | \[압축]비트 x10, \[압축]네더 사마귀 x10, \[압축]감자 x10, \[압축]당근 x10, \[압축]호박 x10        | 120초  |
+| ![](../.gitbook/assets/food_compressed_cocoa_crop_cake.png) | 압축 코코아 작물 케이크 | \[압축]코코아 콩 x10, \[압축]사탕수수 x10, \[압축]당근 x10, \[압축]사과 x10, \[압축]건초더미 x10 | 120초  |
 
 {% hint style="info" %}
 조리 시간이 길수록 높은 등급의 요리이며, 판매 가격이 높습니다.
