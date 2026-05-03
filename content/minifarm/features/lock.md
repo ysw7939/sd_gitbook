@@ -38,3 +38,9 @@
 * 권한이 없는 플레이어는 잠긴 상자나 통을 열 수 없습니다.
 * 권한이 없는 플레이어는 잠긴 상자나 통을 부술 수 없습니다.
 * 잠긴 컨테이너에서는 호퍼로 아이템을 빼낼 수 없습니다.
+
+### 획득 방법&#x20;
+
+* 상점에 경작지 상점을 통해 구매 가능합니다&#x20;
+
+<div><figure><img src="../../../.gitbook/assets/image (32).png" alt=""><figcaption></figcaption></figure> <figure><img src="../../../.gitbook/assets/image (33).png" alt=""><figcaption></figcaption></figure></div>
