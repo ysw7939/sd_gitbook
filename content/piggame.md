@@ -27,43 +27,48 @@
 
 ### 등급별 출현 확률
 
-| 등급 | 누적 확률  | 비고            |
-| -- | ------ | ------------- |
-| S급 | 0.82%  | 한우 (안심·등심)    |
-| A급 | 0.70%  | 차돌박이          |
-| B급 | 43.96% | 돼지·닭고기        |
-| C급 | 54.51% | 가공육 (베이컨·소시지·햄) |
+| 등급 | 누적 확률  | 비고                          |
+| -- | ------ | --------------------------- |
+| S급 | 0.14%  | 한우 (안심·등심)                  |
+| A급 | 4.02%  | 차돌박이·LA갈비·흑돼지 삼겹살·오리·갈매기·양갈비 |
+| B급 | 64.07% | 돼지·닭고기                      |
+| C급 | 31.77% | 가공육 (베이컨·소시지·햄)              |
 
 ### S급 — 약 270\~295초
 
 |                                                    | 이름    | 생존 시간 | 확률    |
 | -------------------------------------------------- | ----- | ----- | ----- |
-| ![](../.gitbook/assets/meat_hanwoo_tenderloin.png) | 한우 안심 | 약 295초 | 0.35% |
-| ![](../.gitbook/assets/meat_hanwoo_sirloin.png)    | 한우 등심 | 약 270초 | 0.47% |
+| ![](../.gitbook/assets/meat_hanwoo_tenderloin.png) | 한우 안심 | 약 295초 | 0.06% |
+| ![](../.gitbook/assets/meat_hanwoo_sirloin.png)    | 한우 등심 | 약 270초 | 0.08% |
 
 ### A급 — 약 55초
 
-|                                                    | 이름    | 생존 시간 | 확률    |
-| -------------------------------------------------- | ----- | ----- | ----- |
-| ![](../.gitbook/assets/meat_beef_brisket.png)      | 차돌박이  | 약 55초 | 0.70% |
+|                                                  | 이름      | 생존 시간 | 확률    |
+| ------------------------------------------------ | ------- | ----- | ----- |
+| ![](../.gitbook/assets/meat_beef_brisket.png)    | 차돌박이    | 약 55초 | 0.67% |
+| ![](../.gitbook/assets/meat_la_galbi.png)        | LA갈비    | 약 55초 | 0.67% |
+| ![](../.gitbook/assets/meat_black_pork_belly.png) | 흑돼지 삼겹살 | 약 55초 | 0.67% |
+| ![](../.gitbook/assets/meat_duck_breast.png)     | 오리 가슴살  | 약 55초 | 0.67% |
+| ![](../.gitbook/assets/meat_galmaegisal.png)     | 갈매기살    | 약 55초 | 0.67% |
+| ![](../.gitbook/assets/meat_lamb_chop.png)       | 양갈비     | 약 55초 | 0.67% |
 
 ### B급 — 약 23\~26초
 
 |                                                  | 이름    | 생존 시간 | 확률     |
 | ------------------------------------------------ | ----- | ----- | ------ |
-| ![](../.gitbook/assets/meat_pork_neck.png)       | 돼지 목살 | 약 26초 | 7.03%  |
-| ![](../.gitbook/assets/meat_five_layer_pork.png) | 오겹살   | 약 25초 | 7.62%  |
-| ![](../.gitbook/assets/meat_pork_belly.png)      | 삼겹살   | 약 24초 | 8.79%  |
-| ![](../.gitbook/assets/meat_chicken_leg.png)     | 닭다리살  | 약 24초 | 9.96%  |
-| ![](../.gitbook/assets/meat_chicken_breast.png)  | 닭가슴살  | 약 23초 | 10.55% |
+| ![](../.gitbook/assets/meat_pork_neck.png)       | 돼지 목살 | 약 26초 | 10.25% |
+| ![](../.gitbook/assets/meat_five_layer_pork.png) | 오겹살   | 약 25초 | 11.11% |
+| ![](../.gitbook/assets/meat_pork_belly.png)      | 삼겹살   | 약 24초 | 12.81% |
+| ![](../.gitbook/assets/meat_chicken_leg.png)     | 닭다리살  | 약 24초 | 14.53% |
+| ![](../.gitbook/assets/meat_chicken_breast.png)  | 닭가슴살  | 약 23초 | 15.38% |
 
 ### C급 — 약 15\~16초
 
 |                                          | 이름  | 생존 시간 | 확률     |
 | ---------------------------------------- | --- | ----- | ------ |
-| ![](../.gitbook/assets/meat_bacon.png)   | 베이컨 | 약 16초 | 16.41% |
-| ![](../.gitbook/assets/meat_sausage.png) | 소시지 | 약 15초 | 17.58% |
-| ![](../.gitbook/assets/meat_ham.png)     | 햄   | 약 15초 | 20.51% |
+| ![](../.gitbook/assets/meat_bacon.png)   | 베이컨 | 약 16초 |  9.57% |
+| ![](../.gitbook/assets/meat_sausage.png) | 소시지 | 약 15초 | 10.25% |
+| ![](../.gitbook/assets/meat_ham.png)     | 햄   | 약 15초 | 11.96% |
 
 {% hint style="info" %}
 S급·A급 고기는 등장 확률이 매우 낮지만, 성공하면 높은 가격에 판매할 수 있습니다.\

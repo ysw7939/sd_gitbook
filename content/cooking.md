@@ -70,7 +70,7 @@
 | ![](../.gitbook/assets/food_watermelon_grape_punch.png)    | 수박 포도 화채     | 햄 x3, 파인애플 기름 x1, \[압축]수박 x6    | 30초   |
 | ![](../.gitbook/assets/food_ham_tomato_soup.png)           | 햄 토마토 수프     | 햄 x3, 양배추 기름 x1, \[압축]당근 x6     | 30초   |
 | ![](../.gitbook/assets/food_bacon_corn_sandwich.png)        | 베이컨 옥수수 샌드위치 | 베이컨 x3, 옥수수 기름 x1, \[압축]사탕수수 x6                                           | 30초   |
-| ![](../.gitbook/assets/food_compressed_nether_root_hotpot.png) | 압축 네더 뿌리 전골   | \[압축]비트 x10, \[압축]네더 사마귀 x10, \[압축]감자 x10, \[압축]당근 x10, \[압축]호박 x10        | 120초  |
+| ![](../.gitbook/assets/food_compressed_nether_root_hotpot.png) | 압축 고추 전골      | \[압축]비트 x10, \[압축]네더 사마귀 x10, \[압축]감자 x10, \[압축]당근 x10, \[압축]호박 x10        | 120초  |
 | ![](../.gitbook/assets/food_compressed_cocoa_crop_cake.png) | 압축 코코아 작물 케이크 | \[압축]코코아 콩 x10, \[압축]사탕수수 x10, \[압축]당근 x10, \[압축]사과 x10, \[압축]건초더미 x10 | 120초  |
 
 {% hint style="info" %}
