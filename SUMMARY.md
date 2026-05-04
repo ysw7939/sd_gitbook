@@ -48,6 +48,7 @@
 
 * [💬 채팅](features/chat.md)
 * [🛒 유저상점](features/userstore.md)
+* [💱 캐시거래소](features/cashexchange.md)
 * [📦 작물 압축](undefined-3/compression.md)
 * [⏱️ 접속시간](features/playtime.md)
 
