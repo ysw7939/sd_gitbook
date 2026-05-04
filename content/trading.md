@@ -9,7 +9,7 @@
 * 매일 **오전 3시**에 일일 판매량이 초기화됩니다.
 * 빈 슬롯에 아이템을 등록하고, 가격을 조정하여 판매합니다.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/image (19).png" alt=""><figcaption></figcaption></figure>
 

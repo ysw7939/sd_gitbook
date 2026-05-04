@@ -3,7 +3,7 @@
 광산은 메인 월드와 분리된 별도의 채굴 전용 월드입니다.\
 `Shift + F` 메뉴에서 워프를 통해 광산으로 이동할 수 있습니다.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption></figcaption></figure>
 
 <figure><img src="../.gitbook/assets/85106663-506D-4DE7-9327-28C013839ABD.gif" alt=""><figcaption></figcaption></figure>
 
@@ -40,7 +40,7 @@
 | 수달석        | 1%       | 인첸트 강화 재료 (성공률 45%)       |
 | 윤기나는 수달석   | 0.024%   | 인첸트 강화 재료 (성공률 65%)       |
 | 섬세한 손길 주문서 | 0.005%   | 도구에 사용 시 **섬세한 손길** 효과 부여 |
-| 네더라이트 형판   | 0.05%    | 네더라이트 장비 제작 재료           |
+| 네더라이트 형판   | 0.05%    | 네더라이트 장비 제작 재료            |
 
 {% hint style="info" %}
 특수 드롭은 아이템별로 각각 확률이 계산됩니다.\
