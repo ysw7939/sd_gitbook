@@ -38,7 +38,7 @@ layout:
 
 * 서버 주소 : `sudalfarm.com`
 * 서버 버전 : `1.21.4`
-* [서버 디스코드 바로가기](https://discord.com/invite/NhZcnbKz4P)
+* [서버 디스코드 바로가기](https://discord.gg/7VmSgt3mpQ)
 
 ***
 
