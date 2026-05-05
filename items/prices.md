@@ -19,7 +19,7 @@
 | 밀                 | 6원   |
 | 비트                | 7원   |
 | 코코아 콩             | 6원   |
-| 네더 사마귀            | 2원   |
+| 고추                | 2원   |
 | 사탕수수              | 5원   |
 | 건초더미              | 54원  |
 | 구운 감자             | 2원   |
@@ -175,17 +175,11 @@
 
 |                                                          | 요리             | 최저 판매가격   | 최고 판매가격   |
 | -------------------------------------------------------- | -------------- | --------- | --------- |
-| ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크     | 577,800원 | 602,900원 |
+| ![](../.gitbook/assets/food_hanwoo_tenderloin_steak.png) | 한우 안심 스테이크     | 693,344원 | 713,441원 |
 | ![](../.gitbook/assets/food_shark_sujebi_hotpot.png)     | 상어 수제비 전골      | 696,258원 | 716,440원 |
-| ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png)  | 한우 등심 호박찜      | 580,500원 | 605,700원 |
-| ![](../.gitbook/assets/food_marlin_eggplant_grill.png)   | 청새치 가지 수박 그릴   | 580,700원 | 605,900원 |
-| ![](../.gitbook/assets/food_manta_pumpkin_pot_rice.png)  | 대왕가오리 호박 포도 솥밥 | 580,500원 | 605,700원 |
-
-### A등급
-
-|                                                          | 요리         | 최저 판매가격  | 최고 판매가격  |
-| -------------------------------------------------------- | ---------- | -------- | -------- |
-| ![](../.gitbook/assets/food_brisket_garlic_stir_fry.png) | 차돌박이 마늘 볶음 | 47,800원 | 49,900원 |
+| ![](../.gitbook/assets/food_hanwoo_sirloin_pumpkin.png)  | 한우 등심 호박찜      | 696,548원 | 716,738원 |
+| ![](../.gitbook/assets/food_marlin_eggplant_grill.png)   | 청새치 가지 수박 그릴   | 696,842원 | 717,040원 |
+| ![](../.gitbook/assets/food_manta_pumpkin_pot_rice.png)  | 대왕가오리 호박 포도 솥밥 | 696,548원 | 716,738원 |
 
 ### B등급
 
@@ -193,22 +187,19 @@
 | ---------------------------------------------------------------- | ------------- | -------- | -------- |
 | ![](../.gitbook/assets/food_pork_belly_cabbage_grill.png)        | 삼겹살 양배추 구이    | 14,111원 | 14,520원 |
 | ![](../.gitbook/assets/food_chicken_pineapple_salad.png)         | 닭가슴살 파인애플 샐러드 | 9,253원  | 9,521원  |
-| ![](../.gitbook/assets/food_carp_eggplant_stew.png)              | 잉어 가지찜        | 8,900원  | 9,200원  |
-| ![](../.gitbook/assets/food_pork_neck_corn_steak.png)            | 목살 옥수수 스테이크   | 10,300원 | 10,700원 |
-| ![](../.gitbook/assets/food_bass_tomato_spicy_stew.png)          | 베스 토마토 매운탕    | 37,500원 | 39,100원 |
-| ![](../.gitbook/assets/food_sunfish_berry_steak.png)             | 개복치 베리 스테이크   | 37,500원 | 39,100원 |
-| ![](../.gitbook/assets/food_tropical_fish_pineapple_ceviche.png) | 열대어 파인애플 세비체  | 13,700원 | 14,300원 |
-| ![](../.gitbook/assets/food_lobster_melon_carpaccio.png)         | 쭈꾸미 수박 카르파초   | 74,700원 | 77,900원 |
-| ![](../.gitbook/assets/food_tuna_grape_poke.png)                 | 멸치 포도 포케      | 70,800원 | 73,900원 |
-| ![](../.gitbook/assets/food_eel_apple_teriyaki.png)              | 메기 사과 조림      | 71,800원 | 74,900원 |
+| ![](../.gitbook/assets/food_carp_eggplant_stew.png)              | 잉어 가지찜        | 10,633원 | 10,941원 |
+| ![](../.gitbook/assets/food_pork_neck_corn_steak.png)            | 목살 옥수수 스테이크   | 12,323원 | 12,681원 |
+| ![](../.gitbook/assets/food_bass_tomato_spicy_stew.png)          | 베스 토마토 매운탕    | 44,988원 | 46,292원 |
+| ![](../.gitbook/assets/food_sunfish_berry_steak.png)             | 개복치 베리 스테이크   | 44,988원 | 46,292원 |
+| ![](../.gitbook/assets/food_tropical_fish_pineapple_ceviche.png) | 열대어 파인애플 세비체  | 16,463원 | 16,941원 |
 
 ### C등급
 
 |                                                                | 요리            | 최저 판매가격   | 최고 판매가격   |
 | -------------------------------------------------------------- | ------------- | --------- | --------- |
-| ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png)     | 소시지 토마토 볶음밥   | 3,200원   | 3,300원   |
-| ![](../.gitbook/assets/food_watermelon_grape_punch.png)        | 수박 포도 화채      | 9,000원   | 9,400원   |
-| ![](../.gitbook/assets/food_ham_tomato_soup.png)               | 햄 토마토 수프      | 3,200원   | 3,300원   |
+| ![](../.gitbook/assets/food_sausage_tomato_fried_rice.png)     | 소시지 토마토 볶음밥   | 3,789원   | 3,899원   |
+| ![](../.gitbook/assets/food_watermelon_grape_punch.png)        | 수박 포도 화채      | 10,786원  | 11,099원  |
+| ![](../.gitbook/assets/food_ham_tomato_soup.png)               | 햄 토마토 수프      | 3,789원   | 3,899원   |
 | ![](../.gitbook/assets/food_bacon_corn_sandwich.png)           | 베이컨 옥수수 샌드위치  | 5,860원   | 6,029원   |
 | ![](../.gitbook/assets/food_compressed_nether_root_hotpot.png) | 압축 고추 전골      | 32,071원  | 33,001원  |
 | ![](../.gitbook/assets/food_compressed_cocoa_crop_cake.png)    | 압축 코코아 작물 케이크 | 138,676원 | 142,696원 |
