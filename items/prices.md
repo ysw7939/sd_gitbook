@@ -182,18 +182,11 @@
 | ![](../.gitbook/assets/food_marlin_eggplant_grill.png)   | 청새치 가지 수박 그릴   | 696,842원 | 717,040원 |
 | ![](../.gitbook/assets/food_manta_pumpkin_pot_rice.png)  | 대왕가오리 호박 포도 솥밥 | 696,548원 | 716,738원 |
 
-### A등급
-
-|                                                                | 요리            | 최저 판매가격   | 최고 판매가격   |
-| -------------------------------------------------------------- | ------------- | --------- | --------- |
-| ![](../.gitbook/assets/food_brisket_garlic_stir_fry.png)       | 차돌박이 마늘 볶음    | 9,058원   | 9,321원   |
-| ![](../.gitbook/assets/food_compressed_nether_root_hotpot.png) | 압축 고추 전골      | 32,071원  | 33,001원  |
-| ![](../.gitbook/assets/food_compressed_cocoa_crop_cake.png)    | 압축 코코아 작물 케이크 | 138,676원 | 142,696원 |
-
 ### B등급
 
 |                                                                  | 요리            | 최저 판매가격  | 최고 판매가격  |
 | ---------------------------------------------------------------- | ------------- | -------- | -------- |
+| ![](../.gitbook/assets/food_brisket_garlic_stir_fry.png)         | 삼겹살 마늘 볶음     | 9,058원  | 9,321원  |
 | ![](../.gitbook/assets/food_lobster_melon_carpaccio.png)         | 쭈꾸미 수박 카르파초   | 15,103원 | 15,540원 |
 | ![](../.gitbook/assets/food_tuna_grape_poke.png)                 | 멸치 포도 포케      | 10,438원 | 10,741원 |
 | ![](../.gitbook/assets/food_eel_apple_teriyaki.png)              | 메기 사과 조림      | 10,438원 | 10,741원 |
@@ -213,3 +206,10 @@
 | ![](../.gitbook/assets/food_watermelon_grape_punch.png)    | 수박 포도 화채     | 10,786원 | 11,099원 |
 | ![](../.gitbook/assets/food_ham_tomato_soup.png)           | 햄 토마토 수프     | 3,789원  | 3,899원  |
 | ![](../.gitbook/assets/food_bacon_corn_sandwich.png)       | 베이컨 옥수수 샌드위치 | 5,860원  | 6,029원  |
+
+### 압축블록 요리
+
+|                                                                | 요리            | 최저 판매가격   | 최고 판매가격   |
+| -------------------------------------------------------------- | ------------- | --------- | --------- |
+| ![](../.gitbook/assets/food_compressed_nether_root_hotpot.png) | 압축 고추 전골      | 32,071원  | 33,001원  |
+| ![](../.gitbook/assets/food_compressed_cocoa_crop_cake.png)    | 압축 코코아 작물 케이크 | 138,676원 | 142,696원 |
