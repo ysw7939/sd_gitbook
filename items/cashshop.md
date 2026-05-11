@@ -31,8 +31,6 @@
 | ![](../.gitbook/assets/cash_portion_8.png)  | 자두 발광 포션    | 9,000 캐시 |
 | ![](../.gitbook/assets/cash_portion_8.png)  | 보라 발광 포션    | 9,000 캐시 |
 | ![](../.gitbook/assets/cash_portion_9.png)  | 흰 발광 포션     | 9,000 캐시 |
-| ![](../.gitbook/assets/cash_portion_11.png) | 검정 발광 포션    | 9,000 캐시 |
-| ![](../.gitbook/assets/cash_portion_12.png) | 무지개 발광 포션   | 9,000 캐시 |
 
 ## 색깔 채팅
 
