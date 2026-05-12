@@ -29,6 +29,7 @@
 * [🚢 무역](content/trading.md)
 * [🎣 낚시](content/fishing.md)
 * [🐷 도축](content/piggame.md)
+* [📖 도감](content/museum.md)
 * [🔖 퀘스트](content/quests.md)
 * [🛠️ 강화](content/enhance/README.md)
   * [📖 인첸트 강화](content/enhance/enchant.md)
